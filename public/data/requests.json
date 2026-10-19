@@ -1,0 +1,6002 @@
+[
+ {
+  "id": "req_0001",
+  "timestamp": "2026-09-28T00:03:35.103Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 204,
+  "output_tokens": 100,
+  "latency_ms": 817,
+  "cost_usd": 0.000311
+ },
+ {
+  "id": "req_0002",
+  "timestamp": "2026-09-28T00:42:54.833Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 100,
+  "output_tokens": 236,
+  "latency_ms": 830,
+  "cost_usd": 0.000157
+ },
+ {
+  "id": "req_0003",
+  "timestamp": "2026-09-28T01:25:19.379Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 968,
+  "output_tokens": 146,
+  "latency_ms": 833,
+  "cost_usd": 0.005094
+ },
+ {
+  "id": "req_0004",
+  "timestamp": "2026-09-28T01:56:30.469Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 322,
+  "output_tokens": 188,
+  "latency_ms": 929,
+  "cost_usd": 0.00101
+ },
+ {
+  "id": "req_0005",
+  "timestamp": "2026-09-28T01:59:48.835Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 110,
+  "output_tokens": 941,
+  "latency_ms": 1683,
+  "cost_usd": 0.002386
+ },
+ {
+  "id": "req_0006",
+  "timestamp": "2026-09-28T03:00:59.266Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 199,
+  "output_tokens": 89,
+  "latency_ms": 758,
+  "cost_usd": 0.000083
+ },
+ {
+  "id": "req_0007",
+  "timestamp": "2026-09-28T03:32:30.842Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 661,
+  "output_tokens": 268,
+  "latency_ms": 846,
+  "cost_usd": 0.001601
+ },
+ {
+  "id": "req_0008",
+  "timestamp": "2026-09-28T03:41:56.745Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 253,
+  "output_tokens": 207,
+  "latency_ms": 645,
+  "cost_usd": 0.00103
+ },
+ {
+  "id": "req_0009",
+  "timestamp": "2026-09-28T03:42:56.510Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 85,
+  "output_tokens": 95,
+  "latency_ms": 952,
+  "cost_usd": 0.001162
+ },
+ {
+  "id": "req_0010",
+  "timestamp": "2026-09-28T04:59:51.996Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 399,
+  "output_tokens": 133,
+  "latency_ms": 1084,
+  "cost_usd": 0.000851
+ },
+ {
+  "id": "req_0011",
+  "timestamp": "2026-09-28T05:13:24.533Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 176,
+  "output_tokens": 164,
+  "latency_ms": 498,
+  "cost_usd": 0.000306
+ },
+ {
+  "id": "req_0012",
+  "timestamp": "2026-09-28T05:58:54.827Z",
+  "model": "gpt-4o-mini",
+  "status": 429,
+  "input_tokens": 1421,
+  "output_tokens": 0,
+  "latency_ms": 36,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0013",
+  "timestamp": "2026-09-28T06:10:51.307Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 243,
+  "output_tokens": 135,
+  "latency_ms": 663,
+  "cost_usd": 0.00034
+ },
+ {
+  "id": "req_0014",
+  "timestamp": "2026-09-28T07:43:25.956Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 965,
+  "output_tokens": 137,
+  "latency_ms": 1415,
+  "cost_usd": 0.00495
+ },
+ {
+  "id": "req_0015",
+  "timestamp": "2026-09-28T08:00:01.961Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 251,
+  "output_tokens": 313,
+  "latency_ms": 1340,
+  "cost_usd": 0.000508
+ },
+ {
+  "id": "req_0016",
+  "timestamp": "2026-09-28T08:16:36.722Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 630,
+  "output_tokens": 350,
+  "latency_ms": 808,
+  "cost_usd": 0.000882
+ },
+ {
+  "id": "req_0017",
+  "timestamp": "2026-09-28T08:31:13.774Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 665,
+  "output_tokens": 459,
+  "latency_ms": 2811,
+  "cost_usd": 0.006253
+ },
+ {
+  "id": "req_0018",
+  "timestamp": "2026-09-28T10:56:14.530Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 750,
+  "output_tokens": 647,
+  "latency_ms": 1215,
+  "cost_usd": 0.000501
+ },
+ {
+  "id": "req_0019",
+  "timestamp": "2026-09-28T11:58:49.220Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 212,
+  "output_tokens": 659,
+  "latency_ms": 1247,
+  "cost_usd": 0.000427
+ },
+ {
+  "id": "req_0020",
+  "timestamp": "2026-09-28T11:59:35.134Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1015,
+  "output_tokens": 56,
+  "latency_ms": 955,
+  "cost_usd": 0.003885
+ },
+ {
+  "id": "req_0021",
+  "timestamp": "2026-09-28T12:27:03.434Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1666,
+  "output_tokens": 1161,
+  "latency_ms": 2087,
+  "cost_usd": 0.015775
+ },
+ {
+  "id": "req_0022",
+  "timestamp": "2026-09-28T13:21:36.892Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1323,
+  "output_tokens": 252,
+  "latency_ms": 736,
+  "cost_usd": 0.002066
+ },
+ {
+  "id": "req_0023",
+  "timestamp": "2026-09-28T14:22:45.147Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 926,
+  "output_tokens": 124,
+  "latency_ms": 569,
+  "cost_usd": 0.000588
+ },
+ {
+  "id": "req_0024",
+  "timestamp": "2026-09-28T14:47:12.519Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 628,
+  "output_tokens": 231,
+  "latency_ms": 720,
+  "cost_usd": 0.001426
+ },
+ {
+  "id": "req_0025",
+  "timestamp": "2026-09-28T15:02:41.467Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1867,
+  "output_tokens": 577,
+  "latency_ms": 1315,
+  "cost_usd": 0.010438
+ },
+ {
+  "id": "req_0026",
+  "timestamp": "2026-09-28T15:27:02.987Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 144,
+  "output_tokens": 224,
+  "latency_ms": 925,
+  "cost_usd": 0.001011
+ },
+ {
+  "id": "req_0027",
+  "timestamp": "2026-09-28T15:55:46.443Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 1149,
+  "output_tokens": 117,
+  "latency_ms": 652,
+  "cost_usd": 0.000637
+ },
+ {
+  "id": "req_0028",
+  "timestamp": "2026-09-28T17:02:20.870Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 3650,
+  "output_tokens": 494,
+  "latency_ms": 959,
+  "cost_usd": 0.00233
+ },
+ {
+  "id": "req_0029",
+  "timestamp": "2026-09-28T18:05:54.077Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 348,
+  "output_tokens": 85,
+  "latency_ms": 1269,
+  "cost_usd": 0.002319
+ },
+ {
+  "id": "req_0030",
+  "timestamp": "2026-09-28T19:09:28.929Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 149,
+  "output_tokens": 960,
+  "latency_ms": 1464,
+  "cost_usd": 0.003959
+ },
+ {
+  "id": "req_0031",
+  "timestamp": "2026-09-28T19:59:03.175Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1044,
+  "output_tokens": 551,
+  "latency_ms": 1967,
+  "cost_usd": 0.011397
+ },
+ {
+  "id": "req_0032",
+  "timestamp": "2026-09-28T20:18:30.239Z",
+  "model": "claude-haiku",
+  "status": 429,
+  "input_tokens": 555,
+  "output_tokens": 0,
+  "latency_ms": 84,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0033",
+  "timestamp": "2026-09-28T20:27:10.799Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 312,
+  "output_tokens": 384,
+  "latency_ms": 1013,
+  "cost_usd": 0.001786
+ },
+ {
+  "id": "req_0034",
+  "timestamp": "2026-09-28T20:30:52.812Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 2074,
+  "output_tokens": 0,
+  "latency_ms": 659,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0035",
+  "timestamp": "2026-09-28T22:00:36.071Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 167,
+  "output_tokens": 127,
+  "latency_ms": 348,
+  "cost_usd": 0.000101
+ },
+ {
+  "id": "req_0036",
+  "timestamp": "2026-09-28T22:34:08.665Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 594,
+  "output_tokens": 270,
+  "latency_ms": 908,
+  "cost_usd": 0.004185
+ },
+ {
+  "id": "req_0037",
+  "timestamp": "2026-09-28T23:27:26.104Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 249,
+  "output_tokens": 340,
+  "latency_ms": 1174,
+  "cost_usd": 0.00053
+ },
+ {
+  "id": "req_0038",
+  "timestamp": "2026-09-28T23:28:39.496Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 949,
+  "output_tokens": 180,
+  "latency_ms": 596,
+  "cost_usd": 0.00025
+ },
+ {
+  "id": "req_0039",
+  "timestamp": "2026-09-28T23:49:03.251Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1019,
+  "output_tokens": 140,
+  "latency_ms": 705,
+  "cost_usd": 0.001375
+ },
+ {
+  "id": "req_0040",
+  "timestamp": "2026-09-29T00:00:58.637Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 404,
+  "output_tokens": 647,
+  "latency_ms": 1239,
+  "cost_usd": 0.000449
+ },
+ {
+  "id": "req_0041",
+  "timestamp": "2026-09-29T00:58:37.969Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 590,
+  "output_tokens": 184,
+  "latency_ms": 1093,
+  "cost_usd": 0.000697
+ },
+ {
+  "id": "req_0042",
+  "timestamp": "2026-09-29T01:09:08.592Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 258,
+  "output_tokens": 977,
+  "latency_ms": 1681,
+  "cost_usd": 0.001112
+ },
+ {
+  "id": "req_0043",
+  "timestamp": "2026-09-29T01:39:11.178Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 603,
+  "output_tokens": 334,
+  "latency_ms": 2204,
+  "cost_usd": 0.004848
+ },
+ {
+  "id": "req_0044",
+  "timestamp": "2026-09-29T02:32:48.283Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 221,
+  "output_tokens": 446,
+  "latency_ms": 909,
+  "cost_usd": 0.001181
+ },
+ {
+  "id": "req_0045",
+  "timestamp": "2026-09-29T02:57:06.896Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 511,
+  "output_tokens": 175,
+  "latency_ms": 638,
+  "cost_usd": 0.001109
+ },
+ {
+  "id": "req_0046",
+  "timestamp": "2026-09-29T03:03:10.852Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 397,
+  "output_tokens": 180,
+  "latency_ms": 1331,
+  "cost_usd": 0.002792
+ },
+ {
+  "id": "req_0047",
+  "timestamp": "2026-09-29T03:08:24.051Z",
+  "model": "gemini-flash",
+  "status": 429,
+  "input_tokens": 394,
+  "output_tokens": 0,
+  "latency_ms": 67,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0048",
+  "timestamp": "2026-09-29T03:10:05.039Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 324,
+  "output_tokens": 59,
+  "latency_ms": 1629,
+  "cost_usd": 0.001857
+ },
+ {
+  "id": "req_0049",
+  "timestamp": "2026-09-29T03:34:45.722Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 176,
+  "output_tokens": 57,
+  "latency_ms": 406,
+  "cost_usd": 0.000369
+ },
+ {
+  "id": "req_0050",
+  "timestamp": "2026-09-29T04:00:42.056Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 421,
+  "output_tokens": 209,
+  "latency_ms": 485,
+  "cost_usd": 0.001173
+ },
+ {
+  "id": "req_0051",
+  "timestamp": "2026-09-29T04:24:36.235Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 331,
+  "output_tokens": 162,
+  "latency_ms": 680,
+  "cost_usd": 0.000913
+ },
+ {
+  "id": "req_0052",
+  "timestamp": "2026-09-29T04:34:21.541Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 387,
+  "output_tokens": 309,
+  "latency_ms": 1145,
+  "cost_usd": 0.001546
+ },
+ {
+  "id": "req_0053",
+  "timestamp": "2026-09-29T04:56:26.906Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 430,
+  "output_tokens": 780,
+  "latency_ms": 1373,
+  "cost_usd": 0.000532
+ },
+ {
+  "id": "req_0054",
+  "timestamp": "2026-09-29T05:19:59.534Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 205,
+  "output_tokens": 103,
+  "latency_ms": 631,
+  "cost_usd": 0.000576
+ },
+ {
+  "id": "req_0055",
+  "timestamp": "2026-09-29T05:43:16.010Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1022,
+  "output_tokens": 258,
+  "latency_ms": 1304,
+  "cost_usd": 0.001152
+ },
+ {
+  "id": "req_0056",
+  "timestamp": "2026-09-29T06:35:45.862Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 324,
+  "output_tokens": 325,
+  "latency_ms": 834,
+  "cost_usd": 0.000244
+ },
+ {
+  "id": "req_0057",
+  "timestamp": "2026-09-29T07:00:27.977Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 26,
+  "output_tokens": 182,
+  "latency_ms": 1376,
+  "cost_usd": 0.001885
+ },
+ {
+  "id": "req_0058",
+  "timestamp": "2026-09-29T07:07:35.041Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 211,
+  "output_tokens": 990,
+  "latency_ms": 1479,
+  "cost_usd": 0.001081
+ },
+ {
+  "id": "req_0059",
+  "timestamp": "2026-09-29T07:32:33.211Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 208,
+  "output_tokens": 245,
+  "latency_ms": 716,
+  "cost_usd": 0.000675
+ },
+ {
+  "id": "req_0060",
+  "timestamp": "2026-09-29T07:33:22.912Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 400,
+  "output_tokens": 253,
+  "latency_ms": 487,
+  "cost_usd": 0.000753
+ },
+ {
+  "id": "req_0061",
+  "timestamp": "2026-09-29T07:47:34.174Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 153,
+  "output_tokens": 346,
+  "latency_ms": 631,
+  "cost_usd": 0.000231
+ },
+ {
+  "id": "req_0062",
+  "timestamp": "2026-09-29T08:32:03.428Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1587,
+  "output_tokens": 125,
+  "latency_ms": 809,
+  "cost_usd": 0.000313
+ },
+ {
+  "id": "req_0063",
+  "timestamp": "2026-09-29T08:32:44.413Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 371,
+  "output_tokens": 399,
+  "latency_ms": 890,
+  "cost_usd": 0.000295
+ },
+ {
+  "id": "req_0064",
+  "timestamp": "2026-09-29T08:36:50.908Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 4388,
+  "output_tokens": 53,
+  "latency_ms": 1832,
+  "cost_usd": 0.013959
+ },
+ {
+  "id": "req_0065",
+  "timestamp": "2026-09-29T10:33:18.682Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 207,
+  "output_tokens": 139,
+  "latency_ms": 947,
+  "cost_usd": 0.000114
+ },
+ {
+  "id": "req_0066",
+  "timestamp": "2026-09-29T10:42:32.208Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 686,
+  "output_tokens": 483,
+  "latency_ms": 883,
+  "cost_usd": 0.001413
+ },
+ {
+  "id": "req_0067",
+  "timestamp": "2026-09-29T11:29:30.655Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1410,
+  "output_tokens": 402,
+  "latency_ms": 1685,
+  "cost_usd": 0.007545
+ },
+ {
+  "id": "req_0068",
+  "timestamp": "2026-09-29T12:21:43.004Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1143,
+  "output_tokens": 1026,
+  "latency_ms": 1712,
+  "cost_usd": 0.000787
+ },
+ {
+  "id": "req_0069",
+  "timestamp": "2026-09-29T13:05:22.590Z",
+  "model": "gpt-4o",
+  "status": 500,
+  "input_tokens": 307,
+  "output_tokens": 0,
+  "latency_ms": 2841,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0070",
+  "timestamp": "2026-09-29T13:28:47.044Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1064,
+  "output_tokens": 255,
+  "latency_ms": 730,
+  "cost_usd": 0.000313
+ },
+ {
+  "id": "req_0071",
+  "timestamp": "2026-09-29T14:13:12.898Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 225,
+  "output_tokens": 158,
+  "latency_ms": 902,
+  "cost_usd": 0.003045
+ },
+ {
+  "id": "req_0072",
+  "timestamp": "2026-09-29T15:51:00.518Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 324,
+  "output_tokens": 162,
+  "latency_ms": 890,
+  "cost_usd": 0.00243
+ },
+ {
+  "id": "req_0073",
+  "timestamp": "2026-09-29T15:57:19.833Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 395,
+  "output_tokens": 241,
+  "latency_ms": 788,
+  "cost_usd": 0.000204
+ },
+ {
+  "id": "req_0074",
+  "timestamp": "2026-09-29T16:25:23.486Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 380,
+  "output_tokens": 823,
+  "latency_ms": 1627,
+  "cost_usd": 0.003596
+ },
+ {
+  "id": "req_0075",
+  "timestamp": "2026-09-29T17:16:10.793Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 372,
+  "output_tokens": 192,
+  "latency_ms": 1493,
+  "cost_usd": 0.000508
+ },
+ {
+  "id": "req_0076",
+  "timestamp": "2026-09-29T18:28:36.407Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 430,
+  "output_tokens": 150,
+  "latency_ms": 859,
+  "cost_usd": 0.000944
+ },
+ {
+  "id": "req_0077",
+  "timestamp": "2026-09-29T19:44:16.001Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 369,
+  "output_tokens": 512,
+  "latency_ms": 927,
+  "cost_usd": 0.001391
+ },
+ {
+  "id": "req_0078",
+  "timestamp": "2026-09-29T19:52:48.858Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 438,
+  "output_tokens": 1146,
+  "latency_ms": 2357,
+  "cost_usd": 0.004934
+ },
+ {
+  "id": "req_0079",
+  "timestamp": "2026-09-29T20:32:29.086Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 378,
+  "output_tokens": 456,
+  "latency_ms": 870,
+  "cost_usd": 0.002126
+ },
+ {
+  "id": "req_0080",
+  "timestamp": "2026-09-29T21:12:20.431Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 206,
+  "output_tokens": 664,
+  "latency_ms": 1232,
+  "cost_usd": 0.000429
+ },
+ {
+  "id": "req_0081",
+  "timestamp": "2026-09-29T21:30:05.701Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1158,
+  "output_tokens": 250,
+  "latency_ms": 1477,
+  "cost_usd": 0.007224
+ },
+ {
+  "id": "req_0082",
+  "timestamp": "2026-09-29T22:15:58.239Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1399,
+  "output_tokens": 386,
+  "latency_ms": 1064,
+  "cost_usd": 0.002663
+ },
+ {
+  "id": "req_0083",
+  "timestamp": "2026-09-29T23:04:57.864Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 209,
+  "output_tokens": 200,
+  "latency_ms": 587,
+  "cost_usd": 0.000151
+ },
+ {
+  "id": "req_0084",
+  "timestamp": "2026-09-29T23:35:55.076Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 4066,
+  "output_tokens": 537,
+  "latency_ms": 1238,
+  "cost_usd": 0.015535
+ },
+ {
+  "id": "req_0085",
+  "timestamp": "2026-09-30T00:07:34.018Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 531,
+  "output_tokens": 144,
+  "latency_ms": 880,
+  "cost_usd": 0.001001
+ },
+ {
+  "id": "req_0086",
+  "timestamp": "2026-09-30T00:38:47.455Z",
+  "model": "claude-haiku",
+  "status": 500,
+  "input_tokens": 144,
+  "output_tokens": 0,
+  "latency_ms": 895,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0087",
+  "timestamp": "2026-09-30T01:11:22.389Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1008,
+  "output_tokens": 417,
+  "latency_ms": 813,
+  "cost_usd": 0.002474
+ },
+ {
+  "id": "req_0088",
+  "timestamp": "2026-09-30T01:32:11.266Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1565,
+  "output_tokens": 258,
+  "latency_ms": 789,
+  "cost_usd": 0.00039
+ },
+ {
+  "id": "req_0089",
+  "timestamp": "2026-09-30T01:54:10.556Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 533,
+  "output_tokens": 102,
+  "latency_ms": 765,
+  "cost_usd": 0.000141
+ },
+ {
+  "id": "req_0090",
+  "timestamp": "2026-09-30T02:05:43.330Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 269,
+  "output_tokens": 409,
+  "latency_ms": 1211,
+  "cost_usd": 0.001851
+ },
+ {
+  "id": "req_0091",
+  "timestamp": "2026-09-30T02:06:41.204Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 175,
+  "output_tokens": 106,
+  "latency_ms": 776,
+  "cost_usd": 0.00009
+ },
+ {
+  "id": "req_0092",
+  "timestamp": "2026-09-30T02:25:32.434Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 495,
+  "output_tokens": 1611,
+  "latency_ms": 2354,
+  "cost_usd": 0.001041
+ },
+ {
+  "id": "req_0093",
+  "timestamp": "2026-09-30T02:52:18.056Z",
+  "model": "gemini-flash",
+  "status": 429,
+  "input_tokens": 121,
+  "output_tokens": 0,
+  "latency_ms": 45,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0094",
+  "timestamp": "2026-09-30T03:17:29.741Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 270,
+  "output_tokens": 198,
+  "latency_ms": 728,
+  "cost_usd": 0.002655
+ },
+ {
+  "id": "req_0095",
+  "timestamp": "2026-09-30T04:17:25.401Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 262,
+  "output_tokens": 799,
+  "latency_ms": 1566,
+  "cost_usd": 0.000519
+ },
+ {
+  "id": "req_0096",
+  "timestamp": "2026-09-30T04:21:27.488Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 241,
+  "output_tokens": 166,
+  "latency_ms": 718,
+  "cost_usd": 0.000857
+ },
+ {
+  "id": "req_0097",
+  "timestamp": "2026-09-30T04:24:19.296Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 97,
+  "output_tokens": 126,
+  "latency_ms": 611,
+  "cost_usd": 0.000344
+ },
+ {
+  "id": "req_0098",
+  "timestamp": "2026-09-30T04:43:36.787Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 554,
+  "output_tokens": 224,
+  "latency_ms": 536,
+  "cost_usd": 0.000218
+ },
+ {
+  "id": "req_0099",
+  "timestamp": "2026-09-30T05:14:00.641Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 772,
+  "output_tokens": 193,
+  "latency_ms": 1299,
+  "cost_usd": 0.00386
+ },
+ {
+  "id": "req_0100",
+  "timestamp": "2026-09-30T05:16:08.641Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 3795,
+  "output_tokens": 245,
+  "latency_ms": 1546,
+  "cost_usd": 0.003636
+ },
+ {
+  "id": "req_0101",
+  "timestamp": "2026-09-30T06:02:12.289Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 424,
+  "output_tokens": 1181,
+  "latency_ms": 2083,
+  "cost_usd": 0.005063
+ },
+ {
+  "id": "req_0102",
+  "timestamp": "2026-09-30T06:16:09.438Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 348,
+  "output_tokens": 132,
+  "latency_ms": 840,
+  "cost_usd": 0.003024
+ },
+ {
+  "id": "req_0103",
+  "timestamp": "2026-09-30T06:17:04.336Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 929,
+  "output_tokens": 307,
+  "latency_ms": 811,
+  "cost_usd": 0.000324
+ },
+ {
+  "id": "req_0104",
+  "timestamp": "2026-09-30T06:41:10.367Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 349,
+  "output_tokens": 367,
+  "latency_ms": 1136,
+  "cost_usd": 0.001747
+ },
+ {
+  "id": "req_0105",
+  "timestamp": "2026-09-30T07:01:34.940Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 759,
+  "output_tokens": 175,
+  "latency_ms": 977,
+  "cost_usd": 0.001307
+ },
+ {
+  "id": "req_0106",
+  "timestamp": "2026-09-30T07:11:05.463Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 289,
+  "output_tokens": 964,
+  "latency_ms": 1845,
+  "cost_usd": 0.001128
+ },
+ {
+  "id": "req_0107",
+  "timestamp": "2026-09-30T07:18:02.069Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 2075,
+  "output_tokens": 249,
+  "latency_ms": 1065,
+  "cost_usd": 0.007678
+ },
+ {
+  "id": "req_0108",
+  "timestamp": "2026-09-30T07:28:54.499Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 689,
+  "output_tokens": 445,
+  "latency_ms": 827,
+  "cost_usd": 0.00037
+ },
+ {
+  "id": "req_0109",
+  "timestamp": "2026-09-30T08:28:51.038Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 177,
+  "output_tokens": 637,
+  "latency_ms": 1162,
+  "cost_usd": 0.00269
+ },
+ {
+  "id": "req_0110",
+  "timestamp": "2026-09-30T08:38:48.809Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 295,
+  "output_tokens": 116,
+  "latency_ms": 1115,
+  "cost_usd": 0.001898
+ },
+ {
+  "id": "req_0111",
+  "timestamp": "2026-09-30T08:39:43.539Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 597,
+  "output_tokens": 1383,
+  "latency_ms": 2014,
+  "cost_usd": 0.001782
+ },
+ {
+  "id": "req_0112",
+  "timestamp": "2026-09-30T08:58:50.694Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1280,
+  "output_tokens": 184,
+  "latency_ms": 1047,
+  "cost_usd": 0.000302
+ },
+ {
+  "id": "req_0113",
+  "timestamp": "2026-09-30T09:21:43.363Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 556,
+  "output_tokens": 252,
+  "latency_ms": 1046,
+  "cost_usd": 0.000727
+ },
+ {
+  "id": "req_0114",
+  "timestamp": "2026-09-30T09:56:08.017Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 377,
+  "output_tokens": 343,
+  "latency_ms": 1092,
+  "cost_usd": 0.000648
+ },
+ {
+  "id": "req_0115",
+  "timestamp": "2026-09-30T10:12:48.846Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1962,
+  "output_tokens": 1002,
+  "latency_ms": 1675,
+  "cost_usd": 0.002668
+ },
+ {
+  "id": "req_0116",
+  "timestamp": "2026-09-30T10:21:58.000Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 765,
+  "output_tokens": 186,
+  "latency_ms": 992,
+  "cost_usd": 0.001356
+ },
+ {
+  "id": "req_0117",
+  "timestamp": "2026-09-30T11:53:22.179Z",
+  "model": "gemini-flash",
+  "status": 500,
+  "input_tokens": 283,
+  "output_tokens": 0,
+  "latency_ms": 1114,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0118",
+  "timestamp": "2026-09-30T13:08:54.952Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 127,
+  "output_tokens": 707,
+  "latency_ms": 1340,
+  "cost_usd": 0.001806
+ },
+ {
+  "id": "req_0119",
+  "timestamp": "2026-09-30T14:32:09.003Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 329,
+  "output_tokens": 1053,
+  "latency_ms": 1559,
+  "cost_usd": 0.000681
+ },
+ {
+  "id": "req_0120",
+  "timestamp": "2026-09-30T14:33:29.450Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 490,
+  "output_tokens": 596,
+  "latency_ms": 1070,
+  "cost_usd": 0.007185
+ },
+ {
+  "id": "req_0121",
+  "timestamp": "2026-09-30T14:42:43.455Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 316,
+  "output_tokens": 0,
+  "latency_ms": 1591,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0122",
+  "timestamp": "2026-09-30T15:34:07.682Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 268,
+  "output_tokens": 529,
+  "latency_ms": 1179,
+  "cost_usd": 0.00596
+ },
+ {
+  "id": "req_0123",
+  "timestamp": "2026-09-30T15:51:48.933Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 588,
+  "output_tokens": 400,
+  "latency_ms": 922,
+  "cost_usd": 0.000328
+ },
+ {
+  "id": "req_0124",
+  "timestamp": "2026-09-30T15:53:38.895Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 3250,
+  "output_tokens": 247,
+  "latency_ms": 1063,
+  "cost_usd": 0.000636
+ },
+ {
+  "id": "req_0125",
+  "timestamp": "2026-09-30T16:00:13.667Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 687,
+  "output_tokens": 890,
+  "latency_ms": 2146,
+  "cost_usd": 0.015411
+ },
+ {
+  "id": "req_0126",
+  "timestamp": "2026-09-30T16:55:18.772Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 679,
+  "output_tokens": 309,
+  "latency_ms": 855,
+  "cost_usd": 0.001779
+ },
+ {
+  "id": "req_0127",
+  "timestamp": "2026-09-30T16:58:10.360Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 616,
+  "output_tokens": 241,
+  "latency_ms": 1215,
+  "cost_usd": 0.005463
+ },
+ {
+  "id": "req_0128",
+  "timestamp": "2026-09-30T17:08:14.953Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 247,
+  "output_tokens": 164,
+  "latency_ms": 1075,
+  "cost_usd": 0.002257
+ },
+ {
+  "id": "req_0129",
+  "timestamp": "2026-09-30T17:30:12.365Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 330,
+  "output_tokens": 104,
+  "latency_ms": 1055,
+  "cost_usd": 0.00255
+ },
+ {
+  "id": "req_0130",
+  "timestamp": "2026-09-30T18:12:34.969Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 734,
+  "output_tokens": 309,
+  "latency_ms": 665,
+  "cost_usd": 0.000296
+ },
+ {
+  "id": "req_0131",
+  "timestamp": "2026-09-30T18:54:24.281Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1511,
+  "output_tokens": 112,
+  "latency_ms": 863,
+  "cost_usd": 0.006213
+ },
+ {
+  "id": "req_0132",
+  "timestamp": "2026-09-30T18:59:29.073Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1038,
+  "output_tokens": 225,
+  "latency_ms": 860,
+  "cost_usd": 0.000291
+ },
+ {
+  "id": "req_0133",
+  "timestamp": "2026-09-30T19:05:39.076Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 502,
+  "output_tokens": 86,
+  "latency_ms": 631,
+  "cost_usd": 0.000746
+ },
+ {
+  "id": "req_0134",
+  "timestamp": "2026-09-30T19:10:20.685Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 248,
+  "output_tokens": 380,
+  "latency_ms": 762,
+  "cost_usd": 0.000265
+ },
+ {
+  "id": "req_0135",
+  "timestamp": "2026-09-30T19:42:09.341Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 319,
+  "output_tokens": 740,
+  "latency_ms": 1105,
+  "cost_usd": 0.000492
+ },
+ {
+  "id": "req_0136",
+  "timestamp": "2026-09-30T19:51:46.957Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 816,
+  "output_tokens": 557,
+  "latency_ms": 1684,
+  "cost_usd": 0.00761
+ },
+ {
+  "id": "req_0137",
+  "timestamp": "2026-09-30T20:02:48.841Z",
+  "model": "claude-sonnet",
+  "status": 429,
+  "input_tokens": 239,
+  "output_tokens": 0,
+  "latency_ms": 85,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0138",
+  "timestamp": "2026-09-30T20:34:59.686Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 294,
+  "output_tokens": 135,
+  "latency_ms": 1149,
+  "cost_usd": 0.002085
+ },
+ {
+  "id": "req_0139",
+  "timestamp": "2026-09-30T22:15:35.121Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 347,
+  "output_tokens": 334,
+  "latency_ms": 1613,
+  "cost_usd": 0.004208
+ },
+ {
+  "id": "req_0140",
+  "timestamp": "2026-09-30T23:59:06.158Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 3116,
+  "output_tokens": 96,
+  "latency_ms": 868,
+  "cost_usd": 0.000525
+ },
+ {
+  "id": "req_0141",
+  "timestamp": "2026-10-01T00:06:03.245Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 118,
+  "output_tokens": 92,
+  "latency_ms": 1279,
+  "cost_usd": 0.001734
+ },
+ {
+  "id": "req_0142",
+  "timestamp": "2026-10-01T00:44:44.929Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 632,
+  "output_tokens": 527,
+  "latency_ms": 1115,
+  "cost_usd": 0.000411
+ },
+ {
+  "id": "req_0143",
+  "timestamp": "2026-10-01T00:50:47.837Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 631,
+  "output_tokens": 55,
+  "latency_ms": 1237,
+  "cost_usd": 0.002718
+ },
+ {
+  "id": "req_0144",
+  "timestamp": "2026-10-01T01:07:04.094Z",
+  "model": "llama-3-70b",
+  "status": 429,
+  "input_tokens": 276,
+  "output_tokens": 0,
+  "latency_ms": 69,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0145",
+  "timestamp": "2026-10-01T01:32:52.508Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 503,
+  "output_tokens": 619,
+  "latency_ms": 2197,
+  "cost_usd": 0.010794
+ },
+ {
+  "id": "req_0146",
+  "timestamp": "2026-10-01T02:01:54.076Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1555,
+  "output_tokens": 153,
+  "latency_ms": 860,
+  "cost_usd": 0.005417
+ },
+ {
+  "id": "req_0147",
+  "timestamp": "2026-10-01T03:43:24.123Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1441,
+  "output_tokens": 221,
+  "latency_ms": 791,
+  "cost_usd": 0.001496
+ },
+ {
+  "id": "req_0148",
+  "timestamp": "2026-10-01T03:57:16.047Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 305,
+  "output_tokens": 328,
+  "latency_ms": 784,
+  "cost_usd": 0.000243
+ },
+ {
+  "id": "req_0149",
+  "timestamp": "2026-10-01T04:27:04.205Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 344,
+  "output_tokens": 124,
+  "latency_ms": 442,
+  "cost_usd": 0.000126
+ },
+ {
+  "id": "req_0150",
+  "timestamp": "2026-10-01T05:35:21.138Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 548,
+  "output_tokens": 358,
+  "latency_ms": 830,
+  "cost_usd": 0.00187
+ },
+ {
+  "id": "req_0151",
+  "timestamp": "2026-10-01T05:41:41.125Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 317,
+  "output_tokens": 0,
+  "latency_ms": 1201,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0152",
+  "timestamp": "2026-10-01T06:08:12.334Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 585,
+  "output_tokens": 208,
+  "latency_ms": 991,
+  "cost_usd": 0.0013
+ },
+ {
+  "id": "req_0153",
+  "timestamp": "2026-10-01T07:31:57.747Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 1107,
+  "output_tokens": 754,
+  "latency_ms": 1161,
+  "cost_usd": 0.002217
+ },
+ {
+  "id": "req_0154",
+  "timestamp": "2026-10-01T08:13:09.392Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 670,
+  "output_tokens": 275,
+  "latency_ms": 893,
+  "cost_usd": 0.000888
+ },
+ {
+  "id": "req_0155",
+  "timestamp": "2026-10-01T09:04:51.929Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 264,
+  "output_tokens": 242,
+  "latency_ms": 859,
+  "cost_usd": 0.00308
+ },
+ {
+  "id": "req_0156",
+  "timestamp": "2026-10-01T10:53:59.343Z",
+  "model": "gemini-flash",
+  "status": 500,
+  "input_tokens": 1178,
+  "output_tokens": 0,
+  "latency_ms": 1061,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0157",
+  "timestamp": "2026-10-01T11:27:34.164Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1333,
+  "output_tokens": 175,
+  "latency_ms": 385,
+  "cost_usd": 0.000305
+ },
+ {
+  "id": "req_0158",
+  "timestamp": "2026-10-01T11:49:25.155Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 333,
+  "output_tokens": 222,
+  "latency_ms": 939,
+  "cost_usd": 0.000183
+ },
+ {
+  "id": "req_0159",
+  "timestamp": "2026-10-01T12:35:28.077Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 286,
+  "output_tokens": 481,
+  "latency_ms": 1368,
+  "cost_usd": 0.005525
+ },
+ {
+  "id": "req_0160",
+  "timestamp": "2026-10-01T13:08:25.935Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 634,
+  "output_tokens": 295,
+  "latency_ms": 930,
+  "cost_usd": 0.000272
+ },
+ {
+  "id": "req_0161",
+  "timestamp": "2026-10-01T14:14:35.110Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 149,
+  "output_tokens": 276,
+  "latency_ms": 1067,
+  "cost_usd": 0.000735
+ },
+ {
+  "id": "req_0162",
+  "timestamp": "2026-10-01T15:00:20.646Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 215,
+  "output_tokens": 523,
+  "latency_ms": 1505,
+  "cost_usd": 0.000664
+ },
+ {
+  "id": "req_0163",
+  "timestamp": "2026-10-01T15:02:05.390Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1349,
+  "output_tokens": 195,
+  "latency_ms": 2084,
+  "cost_usd": 0.005322
+ },
+ {
+  "id": "req_0164",
+  "timestamp": "2026-10-01T15:33:36.005Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 851,
+  "output_tokens": 0,
+  "latency_ms": 2110,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0165",
+  "timestamp": "2026-10-01T16:02:51.064Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 146,
+  "output_tokens": 481,
+  "latency_ms": 900,
+  "cost_usd": 0.001246
+ },
+ {
+  "id": "req_0166",
+  "timestamp": "2026-10-01T16:21:24.072Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 147,
+  "output_tokens": 82,
+  "latency_ms": 658,
+  "cost_usd": 0.000071
+ },
+ {
+  "id": "req_0167",
+  "timestamp": "2026-10-01T16:50:56.427Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 211,
+  "output_tokens": 375,
+  "latency_ms": 960,
+  "cost_usd": 0.001669
+ },
+ {
+  "id": "req_0168",
+  "timestamp": "2026-10-01T17:20:33.557Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 311,
+  "output_tokens": 452,
+  "latency_ms": 1159,
+  "cost_usd": 0.000687
+ },
+ {
+  "id": "req_0169",
+  "timestamp": "2026-10-01T17:33:49.983Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 493,
+  "output_tokens": 294,
+  "latency_ms": 603,
+  "cost_usd": 0.00025
+ },
+ {
+  "id": "req_0170",
+  "timestamp": "2026-10-01T17:46:52.758Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 456,
+  "output_tokens": 816,
+  "latency_ms": 1517,
+  "cost_usd": 0.003629
+ },
+ {
+  "id": "req_0171",
+  "timestamp": "2026-10-01T18:04:40.613Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1061,
+  "output_tokens": 174,
+  "latency_ms": 750,
+  "cost_usd": 0.000264
+ },
+ {
+  "id": "req_0172",
+  "timestamp": "2026-10-01T19:42:23.932Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 244,
+  "output_tokens": 224,
+  "latency_ms": 1063,
+  "cost_usd": 0.000421
+ },
+ {
+  "id": "req_0173",
+  "timestamp": "2026-10-01T20:12:11.832Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 255,
+  "output_tokens": 599,
+  "latency_ms": 2000,
+  "cost_usd": 0.00975
+ },
+ {
+  "id": "req_0174",
+  "timestamp": "2026-10-01T20:28:03.748Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 320,
+  "output_tokens": 163,
+  "latency_ms": 800,
+  "cost_usd": 0.000435
+ },
+ {
+  "id": "req_0175",
+  "timestamp": "2026-10-01T20:31:06.373Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1646,
+  "output_tokens": 122,
+  "latency_ms": 515,
+  "cost_usd": 0.00032
+ },
+ {
+  "id": "req_0176",
+  "timestamp": "2026-10-01T20:40:36.237Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 312,
+  "output_tokens": 345,
+  "latency_ms": 1088,
+  "cost_usd": 0.000956
+ },
+ {
+  "id": "req_0177",
+  "timestamp": "2026-10-01T20:53:05.767Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1007,
+  "output_tokens": 532,
+  "latency_ms": 927,
+  "cost_usd": 0.00047
+ },
+ {
+  "id": "req_0178",
+  "timestamp": "2026-10-01T22:05:40.412Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 354,
+  "output_tokens": 601,
+  "latency_ms": 1036,
+  "cost_usd": 0.001609
+ },
+ {
+  "id": "req_0179",
+  "timestamp": "2026-10-01T23:21:55.729Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 549,
+  "output_tokens": 185,
+  "latency_ms": 830,
+  "cost_usd": 0.000193
+ },
+ {
+  "id": "req_0180",
+  "timestamp": "2026-10-01T23:25:03.117Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 460,
+  "output_tokens": 847,
+  "latency_ms": 3175,
+  "cost_usd": 0.014085
+ },
+ {
+  "id": "req_0181",
+  "timestamp": "2026-10-01T23:34:26.454Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 449,
+  "output_tokens": 244,
+  "latency_ms": 1868,
+  "cost_usd": 0.000624
+ },
+ {
+  "id": "req_0182",
+  "timestamp": "2026-10-02T00:14:22.599Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 668,
+  "output_tokens": 525,
+  "latency_ms": 1843,
+  "cost_usd": 0.00692
+ },
+ {
+  "id": "req_0183",
+  "timestamp": "2026-10-02T00:41:19.917Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 618,
+  "output_tokens": 264,
+  "latency_ms": 802,
+  "cost_usd": 0.000845
+ },
+ {
+  "id": "req_0184",
+  "timestamp": "2026-10-02T00:44:47.132Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 523,
+  "output_tokens": 184,
+  "latency_ms": 643,
+  "cost_usd": 0.001154
+ },
+ {
+  "id": "req_0185",
+  "timestamp": "2026-10-02T01:50:23.898Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 3097,
+  "output_tokens": 332,
+  "latency_ms": 1208,
+  "cost_usd": 0.003086
+ },
+ {
+  "id": "req_0186",
+  "timestamp": "2026-10-02T04:36:58.533Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 2267,
+  "output_tokens": 1355,
+  "latency_ms": 3170,
+  "cost_usd": 0.027126
+ },
+ {
+  "id": "req_0187",
+  "timestamp": "2026-10-02T05:48:42.293Z",
+  "model": "gpt-4o",
+  "status": 429,
+  "input_tokens": 279,
+  "output_tokens": 0,
+  "latency_ms": 50,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0188",
+  "timestamp": "2026-10-02T06:20:01.888Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 481,
+  "output_tokens": 646,
+  "latency_ms": 1401,
+  "cost_usd": 0.002969
+ },
+ {
+  "id": "req_0189",
+  "timestamp": "2026-10-02T06:52:04.649Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 687,
+  "output_tokens": 684,
+  "latency_ms": 1869,
+  "cost_usd": 0.008557
+ },
+ {
+  "id": "req_0190",
+  "timestamp": "2026-10-02T07:56:55.285Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 104,
+  "output_tokens": 561,
+  "latency_ms": 2468,
+  "cost_usd": 0.008727
+ },
+ {
+  "id": "req_0191",
+  "timestamp": "2026-10-02T08:03:20.015Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 329,
+  "output_tokens": 638,
+  "latency_ms": 1198,
+  "cost_usd": 0.002815
+ },
+ {
+  "id": "req_0192",
+  "timestamp": "2026-10-02T08:13:24.932Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 246,
+  "output_tokens": 150,
+  "latency_ms": 465,
+  "cost_usd": 0.000797
+ },
+ {
+  "id": "req_0193",
+  "timestamp": "2026-10-02T08:31:04.215Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 1391,
+  "output_tokens": 626,
+  "latency_ms": 1292,
+  "cost_usd": 0.001982
+ },
+ {
+  "id": "req_0194",
+  "timestamp": "2026-10-02T08:38:10.323Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 492,
+  "output_tokens": 654,
+  "latency_ms": 1323,
+  "cost_usd": 0.00777
+ },
+ {
+  "id": "req_0195",
+  "timestamp": "2026-10-02T08:59:26.510Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 597,
+  "output_tokens": 119,
+  "latency_ms": 492,
+  "cost_usd": 0.000954
+ },
+ {
+  "id": "req_0196",
+  "timestamp": "2026-10-02T09:52:04.630Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 417,
+  "output_tokens": 80,
+  "latency_ms": 412,
+  "cost_usd": 0.000654
+ },
+ {
+  "id": "req_0197",
+  "timestamp": "2026-10-02T09:52:17.514Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 2594,
+  "output_tokens": 346,
+  "latency_ms": 896,
+  "cost_usd": 0.000597
+ },
+ {
+  "id": "req_0198",
+  "timestamp": "2026-10-02T09:58:38.471Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 813,
+  "output_tokens": 376,
+  "latency_ms": 1195,
+  "cost_usd": 0.005792
+ },
+ {
+  "id": "req_0199",
+  "timestamp": "2026-10-02T10:31:13.720Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1279,
+  "output_tokens": 1390,
+  "latency_ms": 2152,
+  "cost_usd": 0.001026
+ },
+ {
+  "id": "req_0200",
+  "timestamp": "2026-10-02T11:37:41.493Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 556,
+  "output_tokens": 161,
+  "latency_ms": 1339,
+  "cost_usd": 0.003
+ },
+ {
+  "id": "req_0201",
+  "timestamp": "2026-10-02T12:20:20.765Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 141,
+  "output_tokens": 170,
+  "latency_ms": 687,
+  "cost_usd": 0.000793
+ },
+ {
+  "id": "req_0202",
+  "timestamp": "2026-10-02T12:21:21.677Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 390,
+  "output_tokens": 63,
+  "latency_ms": 348,
+  "cost_usd": 0.000275
+ },
+ {
+  "id": "req_0203",
+  "timestamp": "2026-10-02T12:48:45.386Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 637,
+  "output_tokens": 1518,
+  "latency_ms": 2657,
+  "cost_usd": 0.016772
+ },
+ {
+  "id": "req_0204",
+  "timestamp": "2026-10-02T13:17:21.459Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 114,
+  "output_tokens": 143,
+  "latency_ms": 589,
+  "cost_usd": 0.000663
+ },
+ {
+  "id": "req_0205",
+  "timestamp": "2026-10-02T13:49:34.768Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 168,
+  "output_tokens": 238,
+  "latency_ms": 656,
+  "cost_usd": 0.000645
+ },
+ {
+  "id": "req_0206",
+  "timestamp": "2026-10-02T14:13:12.129Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 150,
+  "output_tokens": 429,
+  "latency_ms": 881,
+  "cost_usd": 0.00028
+ },
+ {
+  "id": "req_0207",
+  "timestamp": "2026-10-02T14:59:17.449Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 563,
+  "output_tokens": 216,
+  "latency_ms": 941,
+  "cost_usd": 0.003567
+ },
+ {
+  "id": "req_0208",
+  "timestamp": "2026-10-02T15:25:21.315Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 161,
+  "output_tokens": 203,
+  "latency_ms": 730,
+  "cost_usd": 0.000941
+ },
+ {
+  "id": "req_0209",
+  "timestamp": "2026-10-02T15:30:34.331Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 70,
+  "output_tokens": 836,
+  "latency_ms": 1740,
+  "cost_usd": 0.000512
+ },
+ {
+  "id": "req_0210",
+  "timestamp": "2026-10-02T16:04:30.260Z",
+  "model": "claude-sonnet",
+  "status": 500,
+  "input_tokens": 349,
+  "output_tokens": 0,
+  "latency_ms": 2175,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0211",
+  "timestamp": "2026-10-02T17:58:41.475Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1065,
+  "output_tokens": 343,
+  "latency_ms": 649,
+  "cost_usd": 0.002224
+ },
+ {
+  "id": "req_0212",
+  "timestamp": "2026-10-02T18:37:03.427Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 240,
+  "output_tokens": 170,
+  "latency_ms": 1316,
+  "cost_usd": 0.00327
+ },
+ {
+  "id": "req_0213",
+  "timestamp": "2026-10-02T19:02:26.570Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 210,
+  "output_tokens": 818,
+  "latency_ms": 1389,
+  "cost_usd": 0.000925
+ },
+ {
+  "id": "req_0214",
+  "timestamp": "2026-10-02T19:27:14.959Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 160,
+  "output_tokens": 368,
+  "latency_ms": 832,
+  "cost_usd": 0.000968
+ },
+ {
+  "id": "req_0215",
+  "timestamp": "2026-10-02T19:36:42.006Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 2040,
+  "output_tokens": 191,
+  "latency_ms": 673,
+  "cost_usd": 0.002396
+ },
+ {
+  "id": "req_0216",
+  "timestamp": "2026-10-02T19:44:12.232Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 744,
+  "output_tokens": 170,
+  "latency_ms": 494,
+  "cost_usd": 0.000648
+ },
+ {
+  "id": "req_0217",
+  "timestamp": "2026-10-02T20:07:14.219Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1051,
+  "output_tokens": 215,
+  "latency_ms": 1177,
+  "cost_usd": 0.006378
+ },
+ {
+  "id": "req_0218",
+  "timestamp": "2026-10-02T20:23:50.137Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 918,
+  "output_tokens": 218,
+  "latency_ms": 1079,
+  "cost_usd": 0.004475
+ },
+ {
+  "id": "req_0219",
+  "timestamp": "2026-10-02T20:55:28.403Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 274,
+  "output_tokens": 1084,
+  "latency_ms": 2725,
+  "cost_usd": 0.011525
+ },
+ {
+  "id": "req_0220",
+  "timestamp": "2026-10-02T20:57:58.378Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 582,
+  "output_tokens": 1300,
+  "latency_ms": 2058,
+  "cost_usd": 0.003425
+ },
+ {
+  "id": "req_0221",
+  "timestamp": "2026-10-02T21:13:06.209Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 435,
+  "output_tokens": 180,
+  "latency_ms": 895,
+  "cost_usd": 0.000553
+ },
+ {
+  "id": "req_0222",
+  "timestamp": "2026-10-02T22:28:35.021Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 375,
+  "output_tokens": 1249,
+  "latency_ms": 1963,
+  "cost_usd": 0.005296
+ },
+ {
+  "id": "req_0223",
+  "timestamp": "2026-10-02T22:35:53.969Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1895,
+  "output_tokens": 269,
+  "latency_ms": 839,
+  "cost_usd": 0.001948
+ },
+ {
+  "id": "req_0224",
+  "timestamp": "2026-10-02T23:31:15.217Z",
+  "model": "gpt-4o-mini",
+  "status": 429,
+  "input_tokens": 312,
+  "output_tokens": 0,
+  "latency_ms": 58,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0225",
+  "timestamp": "2026-10-02T23:41:01.623Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 3798,
+  "output_tokens": 599,
+  "latency_ms": 1705,
+  "cost_usd": 0.020379
+ },
+ {
+  "id": "req_0226",
+  "timestamp": "2026-10-03T00:26:33.242Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1027,
+  "output_tokens": 601,
+  "latency_ms": 2220,
+  "cost_usd": 0.008578
+ },
+ {
+  "id": "req_0227",
+  "timestamp": "2026-10-03T01:01:59.025Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1255,
+  "output_tokens": 467,
+  "latency_ms": 763,
+  "cost_usd": 0.000468
+ },
+ {
+  "id": "req_0228",
+  "timestamp": "2026-10-03T01:43:53.773Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 473,
+  "output_tokens": 57,
+  "latency_ms": 1104,
+  "cost_usd": 0.001752
+ },
+ {
+  "id": "req_0229",
+  "timestamp": "2026-10-03T01:57:59.547Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 142,
+  "output_tokens": 392,
+  "latency_ms": 863,
+  "cost_usd": 0.001023
+ },
+ {
+  "id": "req_0230",
+  "timestamp": "2026-10-03T02:29:54.648Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 344,
+  "output_tokens": 251,
+  "latency_ms": 1033,
+  "cost_usd": 0.000535
+ },
+ {
+  "id": "req_0231",
+  "timestamp": "2026-10-03T04:36:31.100Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 385,
+  "output_tokens": 2180,
+  "latency_ms": 3487,
+  "cost_usd": 0.002308
+ },
+ {
+  "id": "req_0232",
+  "timestamp": "2026-10-03T05:06:47.393Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 125,
+  "output_tokens": 372,
+  "latency_ms": 1202,
+  "cost_usd": 0.004032
+ },
+ {
+  "id": "req_0233",
+  "timestamp": "2026-10-03T06:19:28.966Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 208,
+  "output_tokens": 332,
+  "latency_ms": 1005,
+  "cost_usd": 0.001494
+ },
+ {
+  "id": "req_0234",
+  "timestamp": "2026-10-03T06:19:57.539Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1806,
+  "output_tokens": 318,
+  "latency_ms": 950,
+  "cost_usd": 0.007695
+ },
+ {
+  "id": "req_0235",
+  "timestamp": "2026-10-03T06:25:37.751Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 560,
+  "output_tokens": 275,
+  "latency_ms": 1206,
+  "cost_usd": 0.000249
+ },
+ {
+  "id": "req_0236",
+  "timestamp": "2026-10-03T07:20:15.461Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 466,
+  "output_tokens": 99,
+  "latency_ms": 472,
+  "cost_usd": 0.000769
+ },
+ {
+  "id": "req_0237",
+  "timestamp": "2026-10-03T07:38:23.946Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 747,
+  "output_tokens": 1182,
+  "latency_ms": 2619,
+  "cost_usd": 0.019971
+ },
+ {
+  "id": "req_0238",
+  "timestamp": "2026-10-03T07:45:34.294Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 527,
+  "output_tokens": 176,
+  "latency_ms": 504,
+  "cost_usd": 0.001126
+ },
+ {
+  "id": "req_0239",
+  "timestamp": "2026-10-03T07:46:44.213Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 77,
+  "output_tokens": 220,
+  "latency_ms": 659,
+  "cost_usd": 0.000144
+ },
+ {
+  "id": "req_0240",
+  "timestamp": "2026-10-03T10:06:32.482Z",
+  "model": "claude-haiku",
+  "status": 429,
+  "input_tokens": 979,
+  "output_tokens": 0,
+  "latency_ms": 68,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0241",
+  "timestamp": "2026-10-03T12:03:13.196Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 878,
+  "output_tokens": 372,
+  "latency_ms": 1804,
+  "cost_usd": 0.005915
+ },
+ {
+  "id": "req_0242",
+  "timestamp": "2026-10-03T12:33:50.321Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 114,
+  "output_tokens": 681,
+  "latency_ms": 1544,
+  "cost_usd": 0.007095
+ },
+ {
+  "id": "req_0243",
+  "timestamp": "2026-10-03T13:13:07.301Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 338,
+  "output_tokens": 695,
+  "latency_ms": 1262,
+  "cost_usd": 0.00305
+ },
+ {
+  "id": "req_0244",
+  "timestamp": "2026-10-03T16:15:36.142Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 147,
+  "output_tokens": 375,
+  "latency_ms": 845,
+  "cost_usd": 0.000247
+ },
+ {
+  "id": "req_0245",
+  "timestamp": "2026-10-03T16:56:05.065Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 406,
+  "output_tokens": 586,
+  "latency_ms": 1643,
+  "cost_usd": 0.002669
+ },
+ {
+  "id": "req_0246",
+  "timestamp": "2026-10-03T17:41:18.670Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 394,
+  "output_tokens": 936,
+  "latency_ms": 1888,
+  "cost_usd": 0.004059
+ },
+ {
+  "id": "req_0247",
+  "timestamp": "2026-10-03T17:48:09.678Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 3056,
+  "output_tokens": 637,
+  "latency_ms": 1308,
+  "cost_usd": 0.004993
+ },
+ {
+  "id": "req_0248",
+  "timestamp": "2026-10-03T18:16:08.333Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1297,
+  "output_tokens": 82,
+  "latency_ms": 496,
+  "cost_usd": 0.001241
+ },
+ {
+  "id": "req_0249",
+  "timestamp": "2026-10-03T19:03:40.801Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 233,
+  "output_tokens": 62,
+  "latency_ms": 402,
+  "cost_usd": 0.000225
+ },
+ {
+  "id": "req_0250",
+  "timestamp": "2026-10-03T20:57:07.501Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 276,
+  "output_tokens": 313,
+  "latency_ms": 1112,
+  "cost_usd": 0.00053
+ },
+ {
+  "id": "req_0251",
+  "timestamp": "2026-10-03T21:02:22.365Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 574,
+  "output_tokens": 626,
+  "latency_ms": 1308,
+  "cost_usd": 0.002963
+ },
+ {
+  "id": "req_0252",
+  "timestamp": "2026-10-03T21:18:17.202Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 435,
+  "output_tokens": 87,
+  "latency_ms": 667,
+  "cost_usd": 0.000117
+ },
+ {
+  "id": "req_0253",
+  "timestamp": "2026-10-03T22:19:06.143Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 171,
+  "output_tokens": 304,
+  "latency_ms": 702,
+  "cost_usd": 0.001353
+ },
+ {
+  "id": "req_0254",
+  "timestamp": "2026-10-03T22:35:36.032Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 408,
+  "output_tokens": 194,
+  "latency_ms": 1475,
+  "cost_usd": 0.004134
+ },
+ {
+  "id": "req_0255",
+  "timestamp": "2026-10-03T22:42:21.220Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 76,
+  "output_tokens": 357,
+  "latency_ms": 757,
+  "cost_usd": 0.000226
+ },
+ {
+  "id": "req_0256",
+  "timestamp": "2026-10-03T22:50:57.084Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1031,
+  "output_tokens": 228,
+  "latency_ms": 690,
+  "cost_usd": 0.001737
+ },
+ {
+  "id": "req_0257",
+  "timestamp": "2026-10-03T23:00:56.338Z",
+  "model": "claude-sonnet",
+  "status": 500,
+  "input_tokens": 269,
+  "output_tokens": 0,
+  "latency_ms": 3264,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0258",
+  "timestamp": "2026-10-04T00:12:52.874Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 70,
+  "output_tokens": 500,
+  "latency_ms": 1315,
+  "cost_usd": 0.002056
+ },
+ {
+  "id": "req_0259",
+  "timestamp": "2026-10-04T01:08:06.584Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 88,
+  "output_tokens": 181,
+  "latency_ms": 1394,
+  "cost_usd": 0.00203
+ },
+ {
+  "id": "req_0260",
+  "timestamp": "2026-10-04T01:09:36.049Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 746,
+  "output_tokens": 127,
+  "latency_ms": 2292,
+  "cost_usd": 0.004143
+ },
+ {
+  "id": "req_0261",
+  "timestamp": "2026-10-04T01:17:59.456Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 834,
+  "output_tokens": 193,
+  "latency_ms": 971,
+  "cost_usd": 0.005397
+ },
+ {
+  "id": "req_0262",
+  "timestamp": "2026-10-04T01:50:36.957Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 777,
+  "output_tokens": 334,
+  "latency_ms": 786,
+  "cost_usd": 0.001958
+ },
+ {
+  "id": "req_0263",
+  "timestamp": "2026-10-04T02:05:08.463Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1697,
+  "output_tokens": 793,
+  "latency_ms": 1390,
+  "cost_usd": 0.012172
+ },
+ {
+  "id": "req_0264",
+  "timestamp": "2026-10-04T02:34:01.310Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 582,
+  "output_tokens": 336,
+  "latency_ms": 980,
+  "cost_usd": 0.00181
+ },
+ {
+  "id": "req_0265",
+  "timestamp": "2026-10-04T02:48:40.409Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 447,
+  "output_tokens": 44,
+  "latency_ms": 613,
+  "cost_usd": 0.000534
+ },
+ {
+  "id": "req_0266",
+  "timestamp": "2026-10-04T03:42:19.652Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 288,
+  "output_tokens": 447,
+  "latency_ms": 1384,
+  "cost_usd": 0.00519
+ },
+ {
+  "id": "req_0267",
+  "timestamp": "2026-10-04T03:53:17.393Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 625,
+  "output_tokens": 429,
+  "latency_ms": 1241,
+  "cost_usd": 0.000949
+ },
+ {
+  "id": "req_0268",
+  "timestamp": "2026-10-04T04:16:32.340Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 203,
+  "output_tokens": 494,
+  "latency_ms": 1230,
+  "cost_usd": 0.002138
+ },
+ {
+  "id": "req_0269",
+  "timestamp": "2026-10-04T04:43:23.894Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 282,
+  "output_tokens": 483,
+  "latency_ms": 1055,
+  "cost_usd": 0.001292
+ },
+ {
+  "id": "req_0270",
+  "timestamp": "2026-10-04T06:58:14.595Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 1047,
+  "output_tokens": 184,
+  "latency_ms": 602,
+  "cost_usd": 0.000774
+ },
+ {
+  "id": "req_0271",
+  "timestamp": "2026-10-04T07:06:02.334Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 188,
+  "output_tokens": 188,
+  "latency_ms": 504,
+  "cost_usd": 0.000902
+ },
+ {
+  "id": "req_0272",
+  "timestamp": "2026-10-04T07:25:49.086Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 844,
+  "output_tokens": 672,
+  "latency_ms": 1270,
+  "cost_usd": 0.012612
+ },
+ {
+  "id": "req_0273",
+  "timestamp": "2026-10-04T08:44:51.459Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 180,
+  "output_tokens": 37,
+  "latency_ms": 409,
+  "cost_usd": 0.000292
+ },
+ {
+  "id": "req_0274",
+  "timestamp": "2026-10-04T09:09:34.356Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1298,
+  "output_tokens": 259,
+  "latency_ms": 1462,
+  "cost_usd": 0.007779
+ },
+ {
+  "id": "req_0275",
+  "timestamp": "2026-10-04T09:30:06.190Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 97,
+  "output_tokens": 91,
+  "latency_ms": 627,
+  "cost_usd": 0.001656
+ },
+ {
+  "id": "req_0276",
+  "timestamp": "2026-10-04T09:39:44.097Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 664,
+  "output_tokens": 423,
+  "latency_ms": 1049,
+  "cost_usd": 0.000353
+ },
+ {
+  "id": "req_0277",
+  "timestamp": "2026-10-04T09:46:23.250Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 625,
+  "output_tokens": 299,
+  "latency_ms": 1687,
+  "cost_usd": 0.00636
+ },
+ {
+  "id": "req_0278",
+  "timestamp": "2026-10-04T09:54:04.915Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 249,
+  "output_tokens": 198,
+  "latency_ms": 924,
+  "cost_usd": 0.000991
+ },
+ {
+  "id": "req_0279",
+  "timestamp": "2026-10-04T10:00:19.364Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 326,
+  "output_tokens": 204,
+  "latency_ms": 1096,
+  "cost_usd": 0.004038
+ },
+ {
+  "id": "req_0280",
+  "timestamp": "2026-10-04T10:23:11.772Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 2653,
+  "output_tokens": 457,
+  "latency_ms": 829,
+  "cost_usd": 0.001938
+ },
+ {
+  "id": "req_0281",
+  "timestamp": "2026-10-04T10:32:56.977Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 223,
+  "output_tokens": 1043,
+  "latency_ms": 2133,
+  "cost_usd": 0.010988
+ },
+ {
+  "id": "req_0282",
+  "timestamp": "2026-10-04T11:28:41.193Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 955,
+  "output_tokens": 675,
+  "latency_ms": 1294,
+  "cost_usd": 0.009137
+ },
+ {
+  "id": "req_0283",
+  "timestamp": "2026-10-04T11:29:14.435Z",
+  "model": "llama-3-70b",
+  "status": 500,
+  "input_tokens": 164,
+  "output_tokens": 0,
+  "latency_ms": 1656,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0284",
+  "timestamp": "2026-10-04T11:32:51.667Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 142,
+  "output_tokens": 204,
+  "latency_ms": 758,
+  "cost_usd": 0.003486
+ },
+ {
+  "id": "req_0285",
+  "timestamp": "2026-10-04T11:51:22.524Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 64,
+  "output_tokens": 490,
+  "latency_ms": 1332,
+  "cost_usd": 0.000499
+ },
+ {
+  "id": "req_0286",
+  "timestamp": "2026-10-04T12:09:25.153Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 919,
+  "output_tokens": 152,
+  "latency_ms": 787,
+  "cost_usd": 0.001343
+ },
+ {
+  "id": "req_0287",
+  "timestamp": "2026-10-04T13:02:15.219Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 781,
+  "output_tokens": 129,
+  "latency_ms": 991,
+  "cost_usd": 0.003243
+ },
+ {
+  "id": "req_0288",
+  "timestamp": "2026-10-04T13:33:56.931Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 189,
+  "output_tokens": 256,
+  "latency_ms": 1161,
+  "cost_usd": 0.000182
+ },
+ {
+  "id": "req_0289",
+  "timestamp": "2026-10-04T14:53:50.588Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 1874,
+  "output_tokens": 0,
+  "latency_ms": 1000,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0290",
+  "timestamp": "2026-10-04T15:02:27.007Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 399,
+  "output_tokens": 305,
+  "latency_ms": 994,
+  "cost_usd": 0.004047
+ },
+ {
+  "id": "req_0291",
+  "timestamp": "2026-10-04T15:44:29.160Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 640,
+  "output_tokens": 358,
+  "latency_ms": 900,
+  "cost_usd": 0.001087
+ },
+ {
+  "id": "req_0292",
+  "timestamp": "2026-10-04T15:57:30.648Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 318,
+  "output_tokens": 85,
+  "latency_ms": 752,
+  "cost_usd": 0.000308
+ },
+ {
+  "id": "req_0293",
+  "timestamp": "2026-10-04T16:38:26.253Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 161,
+  "output_tokens": 170,
+  "latency_ms": 673,
+  "cost_usd": 0.000809
+ },
+ {
+  "id": "req_0294",
+  "timestamp": "2026-10-04T17:02:07.576Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 927,
+  "output_tokens": 255,
+  "latency_ms": 1538,
+  "cost_usd": 0.001064
+ },
+ {
+  "id": "req_0295",
+  "timestamp": "2026-10-04T17:16:31.962Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 387,
+  "output_tokens": 817,
+  "latency_ms": 2695,
+  "cost_usd": 0.013416
+ },
+ {
+  "id": "req_0296",
+  "timestamp": "2026-10-04T17:36:31.633Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 492,
+  "output_tokens": 434,
+  "latency_ms": 1056,
+  "cost_usd": 0.001233
+ },
+ {
+  "id": "req_0297",
+  "timestamp": "2026-10-04T17:44:26.863Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 800,
+  "output_tokens": 110,
+  "latency_ms": 1439,
+  "cost_usd": 0.0031
+ },
+ {
+  "id": "req_0298",
+  "timestamp": "2026-10-04T18:52:25.407Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 104,
+  "output_tokens": 235,
+  "latency_ms": 1399,
+  "cost_usd": 0.00261
+ },
+ {
+  "id": "req_0299",
+  "timestamp": "2026-10-04T21:59:31.694Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 712,
+  "output_tokens": 62,
+  "latency_ms": 1756,
+  "cost_usd": 0.003066
+ },
+ {
+  "id": "req_0300",
+  "timestamp": "2026-10-04T22:25:24.926Z",
+  "model": "claude-haiku",
+  "status": 429,
+  "input_tokens": 159,
+  "output_tokens": 0,
+  "latency_ms": 51,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0301",
+  "timestamp": "2026-10-05T00:04:25.430Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 239,
+  "output_tokens": 0,
+  "latency_ms": 911,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0302",
+  "timestamp": "2026-10-05T01:01:25.625Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 400,
+  "output_tokens": 92,
+  "latency_ms": 965,
+  "cost_usd": 0.00258
+ },
+ {
+  "id": "req_0303",
+  "timestamp": "2026-10-05T02:17:54.084Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1125,
+  "output_tokens": 838,
+  "latency_ms": 1265,
+  "cost_usd": 0.004252
+ },
+ {
+  "id": "req_0304",
+  "timestamp": "2026-10-05T03:42:22.766Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 652,
+  "output_tokens": 472,
+  "latency_ms": 1165,
+  "cost_usd": 0.009036
+ },
+ {
+  "id": "req_0305",
+  "timestamp": "2026-10-05T03:42:54.876Z",
+  "model": "claude-haiku",
+  "status": 429,
+  "input_tokens": 779,
+  "output_tokens": 0,
+  "latency_ms": 99,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0306",
+  "timestamp": "2026-10-05T03:54:14.961Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1206,
+  "output_tokens": 73,
+  "latency_ms": 819,
+  "cost_usd": 0.000225
+ },
+ {
+  "id": "req_0307",
+  "timestamp": "2026-10-05T04:05:53.373Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 472,
+  "output_tokens": 138,
+  "latency_ms": 770,
+  "cost_usd": 0.00256
+ },
+ {
+  "id": "req_0308",
+  "timestamp": "2026-10-05T04:23:57.821Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 607,
+  "output_tokens": 219,
+  "latency_ms": 864,
+  "cost_usd": 0.003707
+ },
+ {
+  "id": "req_0309",
+  "timestamp": "2026-10-05T04:56:59.042Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 77,
+  "output_tokens": 267,
+  "latency_ms": 725,
+  "cost_usd": 0.000172
+ },
+ {
+  "id": "req_0310",
+  "timestamp": "2026-10-05T04:58:23.902Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 207,
+  "output_tokens": 142,
+  "latency_ms": 991,
+  "cost_usd": 0.000314
+ },
+ {
+  "id": "req_0311",
+  "timestamp": "2026-10-05T05:12:03.010Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 806,
+  "output_tokens": 342,
+  "latency_ms": 1039,
+  "cost_usd": 0.001097
+ },
+ {
+  "id": "req_0312",
+  "timestamp": "2026-10-05T05:24:39.057Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 414,
+  "output_tokens": 207,
+  "latency_ms": 1123,
+  "cost_usd": 0.004347
+ },
+ {
+  "id": "req_0313",
+  "timestamp": "2026-10-05T05:54:41.207Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 425,
+  "output_tokens": 236,
+  "latency_ms": 1250,
+  "cost_usd": 0.000205
+ },
+ {
+  "id": "req_0314",
+  "timestamp": "2026-10-05T05:58:07.873Z",
+  "model": "claude-sonnet",
+  "status": 500,
+  "input_tokens": 1764,
+  "output_tokens": 0,
+  "latency_ms": 2462,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0315",
+  "timestamp": "2026-10-05T06:00:39.927Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 929,
+  "output_tokens": 126,
+  "latency_ms": 1492,
+  "cost_usd": 0.00095
+ },
+ {
+  "id": "req_0316",
+  "timestamp": "2026-10-05T06:19:57.549Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 399,
+  "output_tokens": 265,
+  "latency_ms": 743,
+  "cost_usd": 0.000219
+ },
+ {
+  "id": "req_0317",
+  "timestamp": "2026-10-05T06:31:10.425Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 477,
+  "output_tokens": 228,
+  "latency_ms": 1232,
+  "cost_usd": 0.004851
+ },
+ {
+  "id": "req_0318",
+  "timestamp": "2026-10-05T07:02:06.083Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 186,
+  "output_tokens": 160,
+  "latency_ms": 1283,
+  "cost_usd": 0.002958
+ },
+ {
+  "id": "req_0319",
+  "timestamp": "2026-10-05T07:26:59.598Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 103,
+  "output_tokens": 459,
+  "latency_ms": 1489,
+  "cost_usd": 0.007194
+ },
+ {
+  "id": "req_0320",
+  "timestamp": "2026-10-05T07:28:48.912Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 2272,
+  "output_tokens": 298,
+  "latency_ms": 915,
+  "cost_usd": 0.00301
+ },
+ {
+  "id": "req_0321",
+  "timestamp": "2026-10-05T08:02:53.644Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 393,
+  "output_tokens": 860,
+  "latency_ms": 1262,
+  "cost_usd": 0.003754
+ },
+ {
+  "id": "req_0322",
+  "timestamp": "2026-10-05T08:10:00.978Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 658,
+  "output_tokens": 180,
+  "latency_ms": 1270,
+  "cost_usd": 0.004674
+ },
+ {
+  "id": "req_0323",
+  "timestamp": "2026-10-05T09:01:32.242Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 339,
+  "output_tokens": 437,
+  "latency_ms": 2053,
+  "cost_usd": 0.007572
+ },
+ {
+  "id": "req_0324",
+  "timestamp": "2026-10-05T09:41:50.110Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 590,
+  "output_tokens": 372,
+  "latency_ms": 948,
+  "cost_usd": 0.001107
+ },
+ {
+  "id": "req_0325",
+  "timestamp": "2026-10-05T09:58:45.817Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 257,
+  "output_tokens": 326,
+  "latency_ms": 1470,
+  "cost_usd": 0.003903
+ },
+ {
+  "id": "req_0326",
+  "timestamp": "2026-10-05T10:02:16.472Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 394,
+  "output_tokens": 586,
+  "latency_ms": 2174,
+  "cost_usd": 0.000882
+ },
+ {
+  "id": "req_0327",
+  "timestamp": "2026-10-05T10:05:57.477Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 2362,
+  "output_tokens": 196,
+  "latency_ms": 1110,
+  "cost_usd": 0.002674
+ },
+ {
+  "id": "req_0328",
+  "timestamp": "2026-10-05T11:03:02.748Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 156,
+  "output_tokens": 195,
+  "latency_ms": 1544,
+  "cost_usd": 0.003393
+ },
+ {
+  "id": "req_0329",
+  "timestamp": "2026-10-05T11:51:38.090Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 539,
+  "output_tokens": 209,
+  "latency_ms": 923,
+  "cost_usd": 0.000673
+ },
+ {
+  "id": "req_0330",
+  "timestamp": "2026-10-05T11:58:03.451Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 470,
+  "output_tokens": 58,
+  "latency_ms": 667,
+  "cost_usd": 0.000286
+ },
+ {
+  "id": "req_0331",
+  "timestamp": "2026-10-05T13:47:58.557Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 404,
+  "output_tokens": 38,
+  "latency_ms": 407,
+  "cost_usd": 0.000475
+ },
+ {
+  "id": "req_0332",
+  "timestamp": "2026-10-05T14:20:36.489Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 189,
+  "output_tokens": 79,
+  "latency_ms": 567,
+  "cost_usd": 0.000076
+ },
+ {
+  "id": "req_0333",
+  "timestamp": "2026-10-05T14:35:47.094Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 525,
+  "output_tokens": 165,
+  "latency_ms": 1301,
+  "cost_usd": 0.002962
+ },
+ {
+  "id": "req_0334",
+  "timestamp": "2026-10-05T15:00:00.078Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1288,
+  "output_tokens": 183,
+  "latency_ms": 859,
+  "cost_usd": 0.001762
+ },
+ {
+  "id": "req_0335",
+  "timestamp": "2026-10-05T19:10:17.242Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 338,
+  "output_tokens": 133,
+  "latency_ms": 677,
+  "cost_usd": 0.000802
+ },
+ {
+  "id": "req_0336",
+  "timestamp": "2026-10-05T19:10:36.547Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 800,
+  "output_tokens": 146,
+  "latency_ms": 714,
+  "cost_usd": 0.001224
+ },
+ {
+  "id": "req_0337",
+  "timestamp": "2026-10-05T19:26:10.223Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 936,
+  "output_tokens": 221,
+  "latency_ms": 1096,
+  "cost_usd": 0.001633
+ },
+ {
+  "id": "req_0338",
+  "timestamp": "2026-10-05T20:49:08.704Z",
+  "model": "gpt-4o",
+  "status": 500,
+  "input_tokens": 1290,
+  "output_tokens": 0,
+  "latency_ms": 611,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0339",
+  "timestamp": "2026-10-05T21:55:55.193Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 760,
+  "output_tokens": 393,
+  "latency_ms": 1456,
+  "cost_usd": 0.001038
+ },
+ {
+  "id": "req_0340",
+  "timestamp": "2026-10-05T22:19:15.102Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 151,
+  "output_tokens": 294,
+  "latency_ms": 997,
+  "cost_usd": 0.000199
+ },
+ {
+  "id": "req_0341",
+  "timestamp": "2026-10-05T22:37:48.093Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 197,
+  "output_tokens": 201,
+  "latency_ms": 640,
+  "cost_usd": 0.00015
+ },
+ {
+  "id": "req_0342",
+  "timestamp": "2026-10-05T22:47:45.047Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 345,
+  "output_tokens": 189,
+  "latency_ms": 747,
+  "cost_usd": 0.000576
+ },
+ {
+  "id": "req_0343",
+  "timestamp": "2026-10-05T22:50:33.210Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 321,
+  "output_tokens": 85,
+  "latency_ms": 578,
+  "cost_usd": 0.000099
+ },
+ {
+  "id": "req_0344",
+  "timestamp": "2026-10-05T23:01:03.253Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 694,
+  "output_tokens": 263,
+  "latency_ms": 793,
+  "cost_usd": 0.000866
+ },
+ {
+  "id": "req_0345",
+  "timestamp": "2026-10-05T23:04:57.827Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1316,
+  "output_tokens": 269,
+  "latency_ms": 796,
+  "cost_usd": 0.00598
+ },
+ {
+  "id": "req_0346",
+  "timestamp": "2026-10-05T23:30:11.530Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1329,
+  "output_tokens": 59,
+  "latency_ms": 1165,
+  "cost_usd": 0.003913
+ },
+ {
+  "id": "req_0347",
+  "timestamp": "2026-10-06T00:01:35.237Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 598,
+  "output_tokens": 41,
+  "latency_ms": 714,
+  "cost_usd": 0.000642
+ },
+ {
+  "id": "req_0348",
+  "timestamp": "2026-10-06T01:10:22.628Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1342,
+  "output_tokens": 255,
+  "latency_ms": 1394,
+  "cost_usd": 0.001437
+ },
+ {
+  "id": "req_0349",
+  "timestamp": "2026-10-06T01:15:43.383Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 2129,
+  "output_tokens": 322,
+  "latency_ms": 680,
+  "cost_usd": 0.002991
+ },
+ {
+  "id": "req_0350",
+  "timestamp": "2026-10-06T01:20:04.155Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 403,
+  "output_tokens": 236,
+  "latency_ms": 790,
+  "cost_usd": 0.001266
+ },
+ {
+  "id": "req_0351",
+  "timestamp": "2026-10-06T01:39:02.299Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 372,
+  "output_tokens": 367,
+  "latency_ms": 1928,
+  "cost_usd": 0.006621
+ },
+ {
+  "id": "req_0352",
+  "timestamp": "2026-10-06T03:20:23.332Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 375,
+  "output_tokens": 259,
+  "latency_ms": 1639,
+  "cost_usd": 0.00501
+ },
+ {
+  "id": "req_0353",
+  "timestamp": "2026-10-06T03:50:46.381Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 337,
+  "output_tokens": 322,
+  "latency_ms": 905,
+  "cost_usd": 0.000244
+ },
+ {
+  "id": "req_0354",
+  "timestamp": "2026-10-06T04:11:22.196Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 440,
+  "output_tokens": 61,
+  "latency_ms": 381,
+  "cost_usd": 0.000596
+ },
+ {
+  "id": "req_0355",
+  "timestamp": "2026-10-06T04:21:58.286Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 2472,
+  "output_tokens": 90,
+  "latency_ms": 488,
+  "cost_usd": 0.000425
+ },
+ {
+  "id": "req_0356",
+  "timestamp": "2026-10-06T04:44:27.607Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 358,
+  "output_tokens": 619,
+  "latency_ms": 1580,
+  "cost_usd": 0.000425
+ },
+ {
+  "id": "req_0357",
+  "timestamp": "2026-10-06T05:01:55.456Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 164,
+  "output_tokens": 202,
+  "latency_ms": 794,
+  "cost_usd": 0.003522
+ },
+ {
+  "id": "req_0358",
+  "timestamp": "2026-10-06T06:02:48.046Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 321,
+  "output_tokens": 524,
+  "latency_ms": 1127,
+  "cost_usd": 0.002353
+ },
+ {
+  "id": "req_0359",
+  "timestamp": "2026-10-06T06:09:58.156Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 222,
+  "output_tokens": 125,
+  "latency_ms": 686,
+  "cost_usd": 0.000312
+ },
+ {
+  "id": "req_0360",
+  "timestamp": "2026-10-06T07:52:09.707Z",
+  "model": "gemini-flash",
+  "status": 429,
+  "input_tokens": 247,
+  "output_tokens": 0,
+  "latency_ms": 71,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0361",
+  "timestamp": "2026-10-06T08:19:26.307Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 289,
+  "output_tokens": 154,
+  "latency_ms": 776,
+  "cost_usd": 0.003177
+ },
+ {
+  "id": "req_0362",
+  "timestamp": "2026-10-06T08:29:11.068Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 774,
+  "output_tokens": 1093,
+  "latency_ms": 2692,
+  "cost_usd": 0.018717
+ },
+ {
+  "id": "req_0363",
+  "timestamp": "2026-10-06T08:40:19.938Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1723,
+  "output_tokens": 56,
+  "latency_ms": 1301,
+  "cost_usd": 0.006009
+ },
+ {
+  "id": "req_0364",
+  "timestamp": "2026-10-06T08:51:56.053Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 72,
+  "output_tokens": 173,
+  "latency_ms": 765,
+  "cost_usd": 0.00022
+ },
+ {
+  "id": "req_0365",
+  "timestamp": "2026-10-06T09:14:01.256Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1882,
+  "output_tokens": 702,
+  "latency_ms": 1703,
+  "cost_usd": 0.004314
+ },
+ {
+  "id": "req_0366",
+  "timestamp": "2026-10-06T10:04:31.434Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 370,
+  "output_tokens": 318,
+  "latency_ms": 961,
+  "cost_usd": 0.001568
+ },
+ {
+  "id": "req_0367",
+  "timestamp": "2026-10-06T10:13:35.022Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 245,
+  "output_tokens": 182,
+  "latency_ms": 1134,
+  "cost_usd": 0.003465
+ },
+ {
+  "id": "req_0368",
+  "timestamp": "2026-10-06T11:20:04.198Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 1488,
+  "output_tokens": 66,
+  "latency_ms": 545,
+  "cost_usd": 0.000611
+ },
+ {
+  "id": "req_0369",
+  "timestamp": "2026-10-06T11:31:26.832Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 2046,
+  "output_tokens": 141,
+  "latency_ms": 1023,
+  "cost_usd": 0.001968
+ },
+ {
+  "id": "req_0370",
+  "timestamp": "2026-10-06T11:44:50.032Z",
+  "model": "llama-3-70b",
+  "status": 500,
+  "input_tokens": 654,
+  "output_tokens": 0,
+  "latency_ms": 1275,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0371",
+  "timestamp": "2026-10-06T11:55:04.380Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 2264,
+  "output_tokens": 336,
+  "latency_ms": 1228,
+  "cost_usd": 0.00902
+ },
+ {
+  "id": "req_0372",
+  "timestamp": "2026-10-06T12:08:45.346Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 618,
+  "output_tokens": 185,
+  "latency_ms": 715,
+  "cost_usd": 0.000723
+ },
+ {
+  "id": "req_0373",
+  "timestamp": "2026-10-06T12:32:50.865Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 886,
+  "output_tokens": 264,
+  "latency_ms": 1427,
+  "cost_usd": 0.006618
+ },
+ {
+  "id": "req_0374",
+  "timestamp": "2026-10-06T13:20:40.228Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 144,
+  "output_tokens": 194,
+  "latency_ms": 883,
+  "cost_usd": 0.003342
+ },
+ {
+  "id": "req_0375",
+  "timestamp": "2026-10-06T13:30:26.467Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 261,
+  "output_tokens": 1217,
+  "latency_ms": 1963,
+  "cost_usd": 0.003121
+ },
+ {
+  "id": "req_0376",
+  "timestamp": "2026-10-06T14:05:57.699Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 115,
+  "output_tokens": 257,
+  "latency_ms": 1004,
+  "cost_usd": 0.000335
+ },
+ {
+  "id": "req_0377",
+  "timestamp": "2026-10-06T14:47:44.272Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 475,
+  "output_tokens": 308,
+  "latency_ms": 1335,
+  "cost_usd": 0.004267
+ },
+ {
+  "id": "req_0378",
+  "timestamp": "2026-10-06T14:58:03.606Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 352,
+  "output_tokens": 104,
+  "latency_ms": 829,
+  "cost_usd": 0.000115
+ },
+ {
+  "id": "req_0379",
+  "timestamp": "2026-10-06T17:51:03.117Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 185,
+  "output_tokens": 680,
+  "latency_ms": 1243,
+  "cost_usd": 0.002868
+ },
+ {
+  "id": "req_0380",
+  "timestamp": "2026-10-06T19:04:52.656Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 712,
+  "output_tokens": 218,
+  "latency_ms": 823,
+  "cost_usd": 0.000238
+ },
+ {
+  "id": "req_0381",
+  "timestamp": "2026-10-06T20:08:05.145Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 664,
+  "output_tokens": 965,
+  "latency_ms": 1736,
+  "cost_usd": 0.000679
+ },
+ {
+  "id": "req_0382",
+  "timestamp": "2026-10-06T21:59:27.663Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 187,
+  "output_tokens": 160,
+  "latency_ms": 580,
+  "cost_usd": 0.00079
+ },
+ {
+  "id": "req_0383",
+  "timestamp": "2026-10-06T22:01:28.656Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 150,
+  "output_tokens": 311,
+  "latency_ms": 1085,
+  "cost_usd": 0.001364
+ },
+ {
+  "id": "req_0384",
+  "timestamp": "2026-10-06T22:09:50.031Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1233,
+  "output_tokens": 320,
+  "latency_ms": 989,
+  "cost_usd": 0.001398
+ },
+ {
+  "id": "req_0385",
+  "timestamp": "2026-10-06T22:21:33.662Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 417,
+  "output_tokens": 218,
+  "latency_ms": 1254,
+  "cost_usd": 0.000571
+ },
+ {
+  "id": "req_0386",
+  "timestamp": "2026-10-06T22:31:59.406Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 459,
+  "output_tokens": 592,
+  "latency_ms": 1226,
+  "cost_usd": 0.001618
+ },
+ {
+  "id": "req_0387",
+  "timestamp": "2026-10-07T00:13:09.031Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1512,
+  "output_tokens": 177,
+  "latency_ms": 1986,
+  "cost_usd": 0.00555
+ },
+ {
+  "id": "req_0388",
+  "timestamp": "2026-10-07T01:01:11.541Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 396,
+  "output_tokens": 781,
+  "latency_ms": 1590,
+  "cost_usd": 0.003441
+ },
+ {
+  "id": "req_0389",
+  "timestamp": "2026-10-07T02:49:54.099Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 910,
+  "output_tokens": 95,
+  "latency_ms": 700,
+  "cost_usd": 0.001108
+ },
+ {
+  "id": "req_0390",
+  "timestamp": "2026-10-07T03:40:51.206Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1703,
+  "output_tokens": 167,
+  "latency_ms": 1552,
+  "cost_usd": 0.00203
+ },
+ {
+  "id": "req_0391",
+  "timestamp": "2026-10-07T03:50:57.865Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 738,
+  "output_tokens": 528,
+  "latency_ms": 2107,
+  "cost_usd": 0.007125
+ },
+ {
+  "id": "req_0392",
+  "timestamp": "2026-10-07T04:07:23.369Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 637,
+  "output_tokens": 186,
+  "latency_ms": 1540,
+  "cost_usd": 0.003452
+ },
+ {
+  "id": "req_0393",
+  "timestamp": "2026-10-07T04:32:28.004Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 217,
+  "output_tokens": 287,
+  "latency_ms": 2114,
+  "cost_usd": 0.004956
+ },
+ {
+  "id": "req_0394",
+  "timestamp": "2026-10-07T04:37:53.392Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 252,
+  "output_tokens": 166,
+  "latency_ms": 772,
+  "cost_usd": 0.000137
+ },
+ {
+  "id": "req_0395",
+  "timestamp": "2026-10-07T04:44:48.980Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 411,
+  "output_tokens": 394,
+  "latency_ms": 1395,
+  "cost_usd": 0.004967
+ },
+ {
+  "id": "req_0396",
+  "timestamp": "2026-10-07T04:47:48.144Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 820,
+  "output_tokens": 907,
+  "latency_ms": 1640,
+  "cost_usd": 0.001554
+ },
+ {
+  "id": "req_0397",
+  "timestamp": "2026-10-07T05:01:22.741Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 88,
+  "output_tokens": 190,
+  "latency_ms": 487,
+  "cost_usd": 0.000127
+ },
+ {
+  "id": "req_0398",
+  "timestamp": "2026-10-07T05:07:14.147Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1497,
+  "output_tokens": 1021,
+  "latency_ms": 1589,
+  "cost_usd": 0.000837
+ },
+ {
+  "id": "req_0399",
+  "timestamp": "2026-10-07T05:42:44.745Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 430,
+  "output_tokens": 212,
+  "latency_ms": 1556,
+  "cost_usd": 0.003195
+ },
+ {
+  "id": "req_0400",
+  "timestamp": "2026-10-07T06:00:16.178Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 257,
+  "output_tokens": 735,
+  "latency_ms": 2047,
+  "cost_usd": 0.007992
+ },
+ {
+  "id": "req_0401",
+  "timestamp": "2026-10-07T06:17:25.787Z",
+  "model": "gemini-flash",
+  "status": 500,
+  "input_tokens": 191,
+  "output_tokens": 0,
+  "latency_ms": 1185,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0402",
+  "timestamp": "2026-10-07T06:30:37.246Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 207,
+  "output_tokens": 134,
+  "latency_ms": 990,
+  "cost_usd": 0.000307
+ },
+ {
+  "id": "req_0403",
+  "timestamp": "2026-10-07T07:40:15.396Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 2911,
+  "output_tokens": 102,
+  "latency_ms": 1037,
+  "cost_usd": 0.010263
+ },
+ {
+  "id": "req_0404",
+  "timestamp": "2026-10-07T08:14:00.841Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 99,
+  "output_tokens": 393,
+  "latency_ms": 1248,
+  "cost_usd": 0.000443
+ },
+ {
+  "id": "req_0405",
+  "timestamp": "2026-10-07T08:33:25.870Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 328,
+  "output_tokens": 1015,
+  "latency_ms": 1806,
+  "cost_usd": 0.001209
+ },
+ {
+  "id": "req_0406",
+  "timestamp": "2026-10-07T10:52:28.455Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 170,
+  "output_tokens": 900,
+  "latency_ms": 2725,
+  "cost_usd": 0.009425
+ },
+ {
+  "id": "req_0407",
+  "timestamp": "2026-10-07T10:54:30.846Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 197,
+  "output_tokens": 192,
+  "latency_ms": 749,
+  "cost_usd": 0.000145
+ },
+ {
+  "id": "req_0408",
+  "timestamp": "2026-10-07T11:05:53.795Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 7293,
+  "output_tokens": 87,
+  "latency_ms": 587,
+  "cost_usd": 0.001146
+ },
+ {
+  "id": "req_0409",
+  "timestamp": "2026-10-07T12:47:58.724Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 518,
+  "output_tokens": 120,
+  "latency_ms": 515,
+  "cost_usd": 0.000574
+ },
+ {
+  "id": "req_0410",
+  "timestamp": "2026-10-07T12:51:29.259Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1188,
+  "output_tokens": 319,
+  "latency_ms": 1017,
+  "cost_usd": 0.002226
+ },
+ {
+  "id": "req_0411",
+  "timestamp": "2026-10-07T12:52:49.102Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 390,
+  "output_tokens": 205,
+  "latency_ms": 1002,
+  "cost_usd": 0.001132
+ },
+ {
+  "id": "req_0412",
+  "timestamp": "2026-10-07T12:54:36.450Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 65,
+  "output_tokens": 137,
+  "latency_ms": 782,
+  "cost_usd": 0.0006
+ },
+ {
+  "id": "req_0413",
+  "timestamp": "2026-10-07T13:47:07.416Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 470,
+  "output_tokens": 468,
+  "latency_ms": 1375,
+  "cost_usd": 0.002248
+ },
+ {
+  "id": "req_0414",
+  "timestamp": "2026-10-07T13:58:21.424Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 677,
+  "output_tokens": 501,
+  "latency_ms": 1017,
+  "cost_usd": 0.000402
+ },
+ {
+  "id": "req_0415",
+  "timestamp": "2026-10-07T14:51:30.544Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 588,
+  "output_tokens": 877,
+  "latency_ms": 1655,
+  "cost_usd": 0.003978
+ },
+ {
+  "id": "req_0416",
+  "timestamp": "2026-10-07T15:50:04.816Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 335,
+  "output_tokens": 307,
+  "latency_ms": 1148,
+  "cost_usd": 0.000868
+ },
+ {
+  "id": "req_0417",
+  "timestamp": "2026-10-07T15:57:59.247Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 907,
+  "output_tokens": 112,
+  "latency_ms": 725,
+  "cost_usd": 0.001174
+ },
+ {
+  "id": "req_0418",
+  "timestamp": "2026-10-07T16:01:49.707Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 612,
+  "output_tokens": 361,
+  "latency_ms": 742,
+  "cost_usd": 0.001934
+ },
+ {
+  "id": "req_0419",
+  "timestamp": "2026-10-07T16:24:00.060Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 515,
+  "output_tokens": 144,
+  "latency_ms": 702,
+  "cost_usd": 0.000164
+ },
+ {
+  "id": "req_0420",
+  "timestamp": "2026-10-07T16:31:34.199Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 799,
+  "output_tokens": 429,
+  "latency_ms": 1376,
+  "cost_usd": 0.001105
+ },
+ {
+  "id": "req_0421",
+  "timestamp": "2026-10-07T16:48:36.982Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1845,
+  "output_tokens": 28,
+  "latency_ms": 670,
+  "cost_usd": 0.004893
+ },
+ {
+  "id": "req_0422",
+  "timestamp": "2026-10-07T17:25:27.934Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1082,
+  "output_tokens": 266,
+  "latency_ms": 714,
+  "cost_usd": 0.001213
+ },
+ {
+  "id": "req_0423",
+  "timestamp": "2026-10-07T17:28:47.003Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 508,
+  "output_tokens": 123,
+  "latency_ms": 1081,
+  "cost_usd": 0.000568
+ },
+ {
+  "id": "req_0424",
+  "timestamp": "2026-10-07T18:13:48.368Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 257,
+  "output_tokens": 431,
+  "latency_ms": 1176,
+  "cost_usd": 0.007236
+ },
+ {
+  "id": "req_0425",
+  "timestamp": "2026-10-07T18:39:52.214Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 433,
+  "output_tokens": 214,
+  "latency_ms": 737,
+  "cost_usd": 0.000665
+ },
+ {
+  "id": "req_0426",
+  "timestamp": "2026-10-07T20:08:19.086Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 172,
+  "output_tokens": 162,
+  "latency_ms": 820,
+  "cost_usd": 0.000301
+ },
+ {
+  "id": "req_0427",
+  "timestamp": "2026-10-07T21:12:43.977Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1699,
+  "output_tokens": 322,
+  "latency_ms": 728,
+  "cost_usd": 0.000448
+ },
+ {
+  "id": "req_0428",
+  "timestamp": "2026-10-07T23:21:06.159Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 648,
+  "output_tokens": 0,
+  "latency_ms": 802,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0429",
+  "timestamp": "2026-10-08T00:38:26.523Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 334,
+  "output_tokens": 86,
+  "latency_ms": 965,
+  "cost_usd": 0.000378
+ },
+ {
+  "id": "req_0430",
+  "timestamp": "2026-10-08T02:12:32.924Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 523,
+  "output_tokens": 388,
+  "latency_ms": 1573,
+  "cost_usd": 0.007389
+ },
+ {
+  "id": "req_0431",
+  "timestamp": "2026-10-08T02:30:57.182Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 358,
+  "output_tokens": 190,
+  "latency_ms": 1041,
+  "cost_usd": 0.002795
+ },
+ {
+  "id": "req_0432",
+  "timestamp": "2026-10-08T04:49:18.697Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 371,
+  "output_tokens": 232,
+  "latency_ms": 797,
+  "cost_usd": 0.001225
+ },
+ {
+  "id": "req_0433",
+  "timestamp": "2026-10-08T05:02:08.390Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 363,
+  "output_tokens": 937,
+  "latency_ms": 2079,
+  "cost_usd": 0.000617
+ },
+ {
+  "id": "req_0434",
+  "timestamp": "2026-10-08T05:09:18.822Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 556,
+  "output_tokens": 173,
+  "latency_ms": 731,
+  "cost_usd": 0.000187
+ },
+ {
+  "id": "req_0435",
+  "timestamp": "2026-10-08T06:51:40.998Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 965,
+  "output_tokens": 135,
+  "latency_ms": 724,
+  "cost_usd": 0.001312
+ },
+ {
+  "id": "req_0436",
+  "timestamp": "2026-10-08T07:04:29.124Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1228,
+  "output_tokens": 262,
+  "latency_ms": 1170,
+  "cost_usd": 0.00569
+ },
+ {
+  "id": "req_0437",
+  "timestamp": "2026-10-08T07:22:40.012Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 448,
+  "output_tokens": 243,
+  "latency_ms": 919,
+  "cost_usd": 0.000213
+ },
+ {
+  "id": "req_0438",
+  "timestamp": "2026-10-08T07:54:34.910Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 469,
+  "output_tokens": 488,
+  "latency_ms": 1177,
+  "cost_usd": 0.000861
+ },
+ {
+  "id": "req_0439",
+  "timestamp": "2026-10-08T08:46:45.554Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1876,
+  "output_tokens": 321,
+  "latency_ms": 1639,
+  "cost_usd": 0.0079
+ },
+ {
+  "id": "req_0440",
+  "timestamp": "2026-10-08T09:00:29.073Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 663,
+  "output_tokens": 54,
+  "latency_ms": 511,
+  "cost_usd": 0.000132
+ },
+ {
+  "id": "req_0441",
+  "timestamp": "2026-10-08T09:16:35.668Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 158,
+  "output_tokens": 75,
+  "latency_ms": 522,
+  "cost_usd": 0.000426
+ },
+ {
+  "id": "req_0442",
+  "timestamp": "2026-10-08T09:27:32.352Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 491,
+  "output_tokens": 1389,
+  "latency_ms": 2424,
+  "cost_usd": 0.015118
+ },
+ {
+  "id": "req_0443",
+  "timestamp": "2026-10-08T09:43:50.650Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 556,
+  "output_tokens": 393,
+  "latency_ms": 849,
+  "cost_usd": 0.001149
+ },
+ {
+  "id": "req_0444",
+  "timestamp": "2026-10-08T10:36:04.295Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 349,
+  "output_tokens": 513,
+  "latency_ms": 1849,
+  "cost_usd": 0.006003
+ },
+ {
+  "id": "req_0445",
+  "timestamp": "2026-10-08T10:51:45.083Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 699,
+  "output_tokens": 95,
+  "latency_ms": 704,
+  "cost_usd": 0.002697
+ },
+ {
+  "id": "req_0446",
+  "timestamp": "2026-10-08T11:10:16.444Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 496,
+  "output_tokens": 361,
+  "latency_ms": 733,
+  "cost_usd": 0.001841
+ },
+ {
+  "id": "req_0447",
+  "timestamp": "2026-10-08T11:32:29.538Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 671,
+  "output_tokens": 317,
+  "latency_ms": 692,
+  "cost_usd": 0.000291
+ },
+ {
+  "id": "req_0448",
+  "timestamp": "2026-10-08T12:12:05.435Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 758,
+  "output_tokens": 170,
+  "latency_ms": 1252,
+  "cost_usd": 0.003595
+ },
+ {
+  "id": "req_0449",
+  "timestamp": "2026-10-08T12:56:52.600Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1394,
+  "output_tokens": 385,
+  "latency_ms": 909,
+  "cost_usd": 0.00044
+ },
+ {
+  "id": "req_0450",
+  "timestamp": "2026-10-08T14:03:31.793Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 196,
+  "output_tokens": 236,
+  "latency_ms": 1364,
+  "cost_usd": 0.00285
+ },
+ {
+  "id": "req_0451",
+  "timestamp": "2026-10-08T14:35:49.793Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 186,
+  "output_tokens": 1100,
+  "latency_ms": 2622,
+  "cost_usd": 0.011465
+ },
+ {
+  "id": "req_0452",
+  "timestamp": "2026-10-08T14:40:54.473Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 344,
+  "output_tokens": 388,
+  "latency_ms": 2685,
+  "cost_usd": 0.006852
+ },
+ {
+  "id": "req_0453",
+  "timestamp": "2026-10-08T15:02:37.984Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1009,
+  "output_tokens": 194,
+  "latency_ms": 512,
+  "cost_usd": 0.000268
+ },
+ {
+  "id": "req_0454",
+  "timestamp": "2026-10-08T15:48:30.973Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 7718,
+  "output_tokens": 287,
+  "latency_ms": 1779,
+  "cost_usd": 0.027459
+ },
+ {
+  "id": "req_0455",
+  "timestamp": "2026-10-08T15:58:15.263Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 466,
+  "output_tokens": 367,
+  "latency_ms": 951,
+  "cost_usd": 0.00029
+ },
+ {
+  "id": "req_0456",
+  "timestamp": "2026-10-08T16:33:19.485Z",
+  "model": "gemini-flash",
+  "status": 500,
+  "input_tokens": 73,
+  "output_tokens": 0,
+  "latency_ms": 899,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0457",
+  "timestamp": "2026-10-08T16:43:39.253Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 2715,
+  "output_tokens": 464,
+  "latency_ms": 1037,
+  "cost_usd": 0.011428
+ },
+ {
+  "id": "req_0458",
+  "timestamp": "2026-10-08T17:42:54.351Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 2450,
+  "output_tokens": 204,
+  "latency_ms": 897,
+  "cost_usd": 0.001245
+ },
+ {
+  "id": "req_0459",
+  "timestamp": "2026-10-08T18:14:15.031Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 631,
+  "output_tokens": 190,
+  "latency_ms": 738,
+  "cost_usd": 0.000664
+ },
+ {
+  "id": "req_0460",
+  "timestamp": "2026-10-08T18:41:06.627Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 303,
+  "output_tokens": 151,
+  "latency_ms": 637,
+  "cost_usd": 0.000136
+ },
+ {
+  "id": "req_0461",
+  "timestamp": "2026-10-08T18:47:10.386Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 784,
+  "output_tokens": 1008,
+  "latency_ms": 1424,
+  "cost_usd": 0.004659
+ },
+ {
+  "id": "req_0462",
+  "timestamp": "2026-10-08T20:33:24.235Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 102,
+  "output_tokens": 76,
+  "latency_ms": 891,
+  "cost_usd": 0.00016
+ },
+ {
+  "id": "req_0463",
+  "timestamp": "2026-10-08T20:44:05.875Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1068,
+  "output_tokens": 652,
+  "latency_ms": 1195,
+  "cost_usd": 0.000551
+ },
+ {
+  "id": "req_0464",
+  "timestamp": "2026-10-08T21:45:19.867Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 681,
+  "output_tokens": 210,
+  "latency_ms": 586,
+  "cost_usd": 0.000729
+ },
+ {
+  "id": "req_0465",
+  "timestamp": "2026-10-08T22:00:48.821Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 454,
+  "output_tokens": 625,
+  "latency_ms": 1398,
+  "cost_usd": 0.000443
+ },
+ {
+  "id": "req_0466",
+  "timestamp": "2026-10-08T22:34:09.100Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1183,
+  "output_tokens": 394,
+  "latency_ms": 789,
+  "cost_usd": 0.000414
+ },
+ {
+  "id": "req_0467",
+  "timestamp": "2026-10-08T22:40:49.780Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 432,
+  "output_tokens": 408,
+  "latency_ms": 1027,
+  "cost_usd": 0.00115
+ },
+ {
+  "id": "req_0468",
+  "timestamp": "2026-10-08T23:18:07.313Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 129,
+  "output_tokens": 221,
+  "latency_ms": 656,
+  "cost_usd": 0.000152
+ },
+ {
+  "id": "req_0469",
+  "timestamp": "2026-10-08T23:18:33.220Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 368,
+  "output_tokens": 303,
+  "latency_ms": 842,
+  "cost_usd": 0.001506
+ },
+ {
+  "id": "req_0470",
+  "timestamp": "2026-10-08T23:23:10.419Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 208,
+  "output_tokens": 222,
+  "latency_ms": 1531,
+  "cost_usd": 0.003954
+ },
+ {
+  "id": "req_0471",
+  "timestamp": "2026-10-09T00:31:49.654Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 357,
+  "output_tokens": 61,
+  "latency_ms": 272,
+  "cost_usd": 0.00026
+ },
+ {
+  "id": "req_0472",
+  "timestamp": "2026-10-09T01:25:41.878Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 470,
+  "output_tokens": 124,
+  "latency_ms": 546,
+  "cost_usd": 0.000451
+ },
+ {
+  "id": "req_0473",
+  "timestamp": "2026-10-09T01:54:39.577Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 984,
+  "output_tokens": 52,
+  "latency_ms": 1079,
+  "cost_usd": 0.00298
+ },
+ {
+  "id": "req_0474",
+  "timestamp": "2026-10-09T02:06:03.967Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 202,
+  "output_tokens": 97,
+  "latency_ms": 315,
+  "cost_usd": 0.000303
+ },
+ {
+  "id": "req_0475",
+  "timestamp": "2026-10-09T03:11:15.260Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 2209,
+  "output_tokens": 182,
+  "latency_ms": 981,
+  "cost_usd": 0.002152
+ },
+ {
+  "id": "req_0476",
+  "timestamp": "2026-10-09T03:17:04.986Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 706,
+  "output_tokens": 516,
+  "latency_ms": 1387,
+  "cost_usd": 0.006925
+ },
+ {
+  "id": "req_0477",
+  "timestamp": "2026-10-09T03:19:22.956Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 146,
+  "output_tokens": 277,
+  "latency_ms": 1216,
+  "cost_usd": 0.004593
+ },
+ {
+  "id": "req_0478",
+  "timestamp": "2026-10-09T05:06:00.065Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 942,
+  "output_tokens": 91,
+  "latency_ms": 668,
+  "cost_usd": 0.001118
+ },
+ {
+  "id": "req_0479",
+  "timestamp": "2026-10-09T06:25:51.053Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 503,
+  "output_tokens": 262,
+  "latency_ms": 843,
+  "cost_usd": 0.00145
+ },
+ {
+  "id": "req_0480",
+  "timestamp": "2026-10-09T06:28:22.281Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 772,
+  "output_tokens": 128,
+  "latency_ms": 748,
+  "cost_usd": 0.004236
+ },
+ {
+  "id": "req_0481",
+  "timestamp": "2026-10-09T09:07:26.086Z",
+  "model": "gpt-4o-mini",
+  "status": 429,
+  "input_tokens": 46,
+  "output_tokens": 0,
+  "latency_ms": 77,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0482",
+  "timestamp": "2026-10-09T09:33:28.425Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 2724,
+  "output_tokens": 710,
+  "latency_ms": 1191,
+  "cost_usd": 0.000835
+ },
+ {
+  "id": "req_0483",
+  "timestamp": "2026-10-09T09:42:05.927Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1076,
+  "output_tokens": 224,
+  "latency_ms": 1337,
+  "cost_usd": 0.001757
+ },
+ {
+  "id": "req_0484",
+  "timestamp": "2026-10-09T09:47:34.591Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 90,
+  "output_tokens": 617,
+  "latency_ms": 1248,
+  "cost_usd": 0.001569
+ },
+ {
+  "id": "req_0485",
+  "timestamp": "2026-10-09T10:28:33.924Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 445,
+  "output_tokens": 144,
+  "latency_ms": 380,
+  "cost_usd": 0.000153
+ },
+ {
+  "id": "req_0486",
+  "timestamp": "2026-10-09T10:33:32.986Z",
+  "model": "gpt-4o",
+  "status": 429,
+  "input_tokens": 227,
+  "output_tokens": 0,
+  "latency_ms": 63,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0487",
+  "timestamp": "2026-10-09T11:00:27.880Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 288,
+  "output_tokens": 638,
+  "latency_ms": 2065,
+  "cost_usd": 0.0071
+ },
+ {
+  "id": "req_0488",
+  "timestamp": "2026-10-09T11:31:25.163Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 195,
+  "output_tokens": 292,
+  "latency_ms": 1681,
+  "cost_usd": 0.004965
+ },
+ {
+  "id": "req_0489",
+  "timestamp": "2026-10-09T12:09:13.730Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 710,
+  "output_tokens": 153,
+  "latency_ms": 1125,
+  "cost_usd": 0.000198
+ },
+ {
+  "id": "req_0490",
+  "timestamp": "2026-10-09T12:31:15.079Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1396,
+  "output_tokens": 182,
+  "latency_ms": 1313,
+  "cost_usd": 0.00531
+ },
+ {
+  "id": "req_0491",
+  "timestamp": "2026-10-09T12:51:26.058Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 261,
+  "output_tokens": 62,
+  "latency_ms": 1132,
+  "cost_usd": 0.001713
+ },
+ {
+  "id": "req_0492",
+  "timestamp": "2026-10-09T12:52:05.981Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 831,
+  "output_tokens": 531,
+  "latency_ms": 1477,
+  "cost_usd": 0.007387
+ },
+ {
+  "id": "req_0493",
+  "timestamp": "2026-10-09T12:59:14.543Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 213,
+  "output_tokens": 292,
+  "latency_ms": 788,
+  "cost_usd": 0.001338
+ },
+ {
+  "id": "req_0494",
+  "timestamp": "2026-10-09T13:22:00.933Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1126,
+  "output_tokens": 51,
+  "latency_ms": 1321,
+  "cost_usd": 0.003325
+ },
+ {
+  "id": "req_0495",
+  "timestamp": "2026-10-09T14:12:19.877Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 380,
+  "output_tokens": 146,
+  "latency_ms": 411,
+  "cost_usd": 0.000479
+ },
+ {
+  "id": "req_0496",
+  "timestamp": "2026-10-09T14:27:38.157Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1225,
+  "output_tokens": 44,
+  "latency_ms": 735,
+  "cost_usd": 0.001142
+ },
+ {
+  "id": "req_0497",
+  "timestamp": "2026-10-09T14:57:29.058Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 420,
+  "output_tokens": 330,
+  "latency_ms": 845,
+  "cost_usd": 0.000261
+ },
+ {
+  "id": "req_0498",
+  "timestamp": "2026-10-09T15:02:03.335Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1171,
+  "output_tokens": 123,
+  "latency_ms": 866,
+  "cost_usd": 0.000249
+ },
+ {
+  "id": "req_0499",
+  "timestamp": "2026-10-09T15:14:33.364Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 580,
+  "output_tokens": 209,
+  "latency_ms": 2096,
+  "cost_usd": 0.004875
+ },
+ {
+  "id": "req_0500",
+  "timestamp": "2026-10-09T15:43:10.539Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 413,
+  "output_tokens": 183,
+  "latency_ms": 1240,
+  "cost_usd": 0.002863
+ },
+ {
+  "id": "req_0501",
+  "timestamp": "2026-10-09T15:48:04.479Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 73,
+  "output_tokens": 70,
+  "latency_ms": 1220,
+  "cost_usd": 0.001269
+ },
+ {
+  "id": "req_0502",
+  "timestamp": "2026-10-09T17:18:58.083Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 195,
+  "output_tokens": 125,
+  "latency_ms": 1350,
+  "cost_usd": 0.00246
+ },
+ {
+  "id": "req_0503",
+  "timestamp": "2026-10-09T17:24:02.062Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 393,
+  "output_tokens": 70,
+  "latency_ms": 664,
+  "cost_usd": 0.000101
+ },
+ {
+  "id": "req_0504",
+  "timestamp": "2026-10-09T18:20:15.243Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1445,
+  "output_tokens": 135,
+  "latency_ms": 528,
+  "cost_usd": 0.001696
+ },
+ {
+  "id": "req_0505",
+  "timestamp": "2026-10-09T19:28:56.781Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 853,
+  "output_tokens": 806,
+  "latency_ms": 1656,
+  "cost_usd": 0.000612
+ },
+ {
+  "id": "req_0506",
+  "timestamp": "2026-10-09T19:47:42.588Z",
+  "model": "gpt-4o",
+  "status": 500,
+  "input_tokens": 632,
+  "output_tokens": 0,
+  "latency_ms": 1584,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0507",
+  "timestamp": "2026-10-09T20:18:09.098Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 558,
+  "output_tokens": 125,
+  "latency_ms": 775,
+  "cost_usd": 0.000615
+ },
+ {
+  "id": "req_0508",
+  "timestamp": "2026-10-09T20:22:02.237Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 341,
+  "output_tokens": 157,
+  "latency_ms": 613,
+  "cost_usd": 0.000495
+ },
+ {
+  "id": "req_0509",
+  "timestamp": "2026-10-09T21:16:43.072Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 422,
+  "output_tokens": 109,
+  "latency_ms": 436,
+  "cost_usd": 0.000478
+ },
+ {
+  "id": "req_0510",
+  "timestamp": "2026-10-09T21:21:24.210Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 435,
+  "output_tokens": 282,
+  "latency_ms": 780,
+  "cost_usd": 0.000234
+ },
+ {
+  "id": "req_0511",
+  "timestamp": "2026-10-09T21:28:18.635Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 166,
+  "output_tokens": 612,
+  "latency_ms": 1120,
+  "cost_usd": 0.000392
+ },
+ {
+  "id": "req_0512",
+  "timestamp": "2026-10-09T22:18:35.309Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 338,
+  "output_tokens": 344,
+  "latency_ms": 1284,
+  "cost_usd": 0.006174
+ },
+ {
+  "id": "req_0513",
+  "timestamp": "2026-10-09T22:22:18.832Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 415,
+  "output_tokens": 742,
+  "latency_ms": 1197,
+  "cost_usd": 0.000507
+ },
+ {
+  "id": "req_0514",
+  "timestamp": "2026-10-09T22:45:04.164Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 184,
+  "output_tokens": 573,
+  "latency_ms": 942,
+  "cost_usd": 0.000371
+ },
+ {
+  "id": "req_0515",
+  "timestamp": "2026-10-09T23:40:50.066Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 624,
+  "output_tokens": 216,
+  "latency_ms": 1458,
+  "cost_usd": 0.005112
+ },
+ {
+  "id": "req_0516",
+  "timestamp": "2026-10-10T00:06:16.963Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 247,
+  "output_tokens": 126,
+  "latency_ms": 804,
+  "cost_usd": 0.000336
+ },
+ {
+  "id": "req_0517",
+  "timestamp": "2026-10-10T00:15:20.823Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1610,
+  "output_tokens": 198,
+  "latency_ms": 747,
+  "cost_usd": 0.00208
+ },
+ {
+  "id": "req_0518",
+  "timestamp": "2026-10-10T00:17:25.038Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 284,
+  "output_tokens": 270,
+  "latency_ms": 1202,
+  "cost_usd": 0.00341
+ },
+ {
+  "id": "req_0519",
+  "timestamp": "2026-10-10T00:30:56.272Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 145,
+  "output_tokens": 536,
+  "latency_ms": 1025,
+  "cost_usd": 0.00226
+ },
+ {
+  "id": "req_0520",
+  "timestamp": "2026-10-10T01:28:51.686Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 266,
+  "output_tokens": 294,
+  "latency_ms": 1768,
+  "cost_usd": 0.005208
+ },
+ {
+  "id": "req_0521",
+  "timestamp": "2026-10-10T01:33:17.484Z",
+  "model": "gpt-4o-mini",
+  "status": 500,
+  "input_tokens": 431,
+  "output_tokens": 0,
+  "latency_ms": 1386,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0522",
+  "timestamp": "2026-10-10T02:59:52.015Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 242,
+  "output_tokens": 87,
+  "latency_ms": 770,
+  "cost_usd": 0.001475
+ },
+ {
+  "id": "req_0523",
+  "timestamp": "2026-10-10T04:04:46.803Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 148,
+  "output_tokens": 173,
+  "latency_ms": 500,
+  "cost_usd": 0.000289
+ },
+ {
+  "id": "req_0524",
+  "timestamp": "2026-10-10T04:30:05.955Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1129,
+  "output_tokens": 433,
+  "latency_ms": 1187,
+  "cost_usd": 0.000429
+ },
+ {
+  "id": "req_0525",
+  "timestamp": "2026-10-10T04:49:51.689Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 343,
+  "output_tokens": 157,
+  "latency_ms": 590,
+  "cost_usd": 0.000146
+ },
+ {
+  "id": "req_0526",
+  "timestamp": "2026-10-10T05:13:06.652Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 175,
+  "output_tokens": 189,
+  "latency_ms": 632,
+  "cost_usd": 0.00014
+ },
+ {
+  "id": "req_0527",
+  "timestamp": "2026-10-10T07:19:47.543Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 462,
+  "output_tokens": 453,
+  "latency_ms": 1481,
+  "cost_usd": 0.005685
+ },
+ {
+  "id": "req_0528",
+  "timestamp": "2026-10-10T07:48:02.991Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1884,
+  "output_tokens": 1260,
+  "latency_ms": 1928,
+  "cost_usd": 0.001039
+ },
+ {
+  "id": "req_0529",
+  "timestamp": "2026-10-10T08:14:59.909Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 320,
+  "output_tokens": 476,
+  "latency_ms": 926,
+  "cost_usd": 0.000334
+ },
+ {
+  "id": "req_0530",
+  "timestamp": "2026-10-10T08:58:52.754Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 144,
+  "output_tokens": 325,
+  "latency_ms": 1058,
+  "cost_usd": 0.00361
+ },
+ {
+  "id": "req_0531",
+  "timestamp": "2026-10-10T10:07:38.532Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 576,
+  "output_tokens": 711,
+  "latency_ms": 2167,
+  "cost_usd": 0.012393
+ },
+ {
+  "id": "req_0532",
+  "timestamp": "2026-10-10T10:11:21.699Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 177,
+  "output_tokens": 83,
+  "latency_ms": 397,
+  "cost_usd": 0.000076
+ },
+ {
+  "id": "req_0533",
+  "timestamp": "2026-10-10T12:25:32.987Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 254,
+  "output_tokens": 248,
+  "latency_ms": 720,
+  "cost_usd": 0.000452
+ },
+ {
+  "id": "req_0534",
+  "timestamp": "2026-10-10T12:47:10.613Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 165,
+  "output_tokens": 40,
+  "latency_ms": 1108,
+  "cost_usd": 0.000185
+ },
+ {
+  "id": "req_0535",
+  "timestamp": "2026-10-10T13:25:10.868Z",
+  "model": "claude-haiku",
+  "status": 500,
+  "input_tokens": 1797,
+  "output_tokens": 0,
+  "latency_ms": 1814,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0536",
+  "timestamp": "2026-10-10T13:38:48.807Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 473,
+  "output_tokens": 843,
+  "latency_ms": 1337,
+  "cost_usd": 0.00375
+ },
+ {
+  "id": "req_0537",
+  "timestamp": "2026-10-10T14:51:47.279Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 166,
+  "output_tokens": 73,
+  "latency_ms": 716,
+  "cost_usd": 0.001145
+ },
+ {
+  "id": "req_0538",
+  "timestamp": "2026-10-10T15:24:27.297Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 2542,
+  "output_tokens": 418,
+  "latency_ms": 1633,
+  "cost_usd": 0.013896
+ },
+ {
+  "id": "req_0539",
+  "timestamp": "2026-10-10T15:33:26.049Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1196,
+  "output_tokens": 347,
+  "latency_ms": 1832,
+  "cost_usd": 0.008793
+ },
+ {
+  "id": "req_0540",
+  "timestamp": "2026-10-10T15:45:04.300Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 188,
+  "output_tokens": 265,
+  "latency_ms": 839,
+  "cost_usd": 0.000187
+ },
+ {
+  "id": "req_0541",
+  "timestamp": "2026-10-10T16:16:25.709Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1122,
+  "output_tokens": 107,
+  "latency_ms": 924,
+  "cost_usd": 0.003875
+ },
+ {
+  "id": "req_0542",
+  "timestamp": "2026-10-10T16:31:32.118Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 378,
+  "output_tokens": 270,
+  "latency_ms": 614,
+  "cost_usd": 0.001382
+ },
+ {
+  "id": "req_0543",
+  "timestamp": "2026-10-10T17:23:47.488Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 121,
+  "output_tokens": 209,
+  "latency_ms": 820,
+  "cost_usd": 0.000297
+ },
+ {
+  "id": "req_0544",
+  "timestamp": "2026-10-10T17:41:08.737Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 382,
+  "output_tokens": 56,
+  "latency_ms": 1261,
+  "cost_usd": 0.001515
+ },
+ {
+  "id": "req_0545",
+  "timestamp": "2026-10-10T17:51:08.493Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 352,
+  "output_tokens": 254,
+  "latency_ms": 752,
+  "cost_usd": 0.001298
+ },
+ {
+  "id": "req_0546",
+  "timestamp": "2026-10-10T17:54:51.996Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 205,
+  "output_tokens": 305,
+  "latency_ms": 839,
+  "cost_usd": 0.001384
+ },
+ {
+  "id": "req_0547",
+  "timestamp": "2026-10-10T18:32:36.846Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 495,
+  "output_tokens": 546,
+  "latency_ms": 1474,
+  "cost_usd": 0.006698
+ },
+ {
+  "id": "req_0548",
+  "timestamp": "2026-10-10T18:32:53.362Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 2585,
+  "output_tokens": 196,
+  "latency_ms": 703,
+  "cost_usd": 0.000505
+ },
+ {
+  "id": "req_0549",
+  "timestamp": "2026-10-10T18:44:37.609Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1752,
+  "output_tokens": 315,
+  "latency_ms": 958,
+  "cost_usd": 0.002662
+ },
+ {
+  "id": "req_0550",
+  "timestamp": "2026-10-10T20:37:45.954Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 108,
+  "output_tokens": 354,
+  "latency_ms": 1215,
+  "cost_usd": 0.00381
+ },
+ {
+  "id": "req_0551",
+  "timestamp": "2026-10-10T21:04:41.280Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1264,
+  "output_tokens": 418,
+  "latency_ms": 966,
+  "cost_usd": 0.00044
+ },
+ {
+  "id": "req_0552",
+  "timestamp": "2026-10-10T21:13:10.215Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1025,
+  "output_tokens": 299,
+  "latency_ms": 871,
+  "cost_usd": 0.001192
+ },
+ {
+  "id": "req_0553",
+  "timestamp": "2026-10-10T21:35:14.706Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 600,
+  "output_tokens": 356,
+  "latency_ms": 1854,
+  "cost_usd": 0.00714
+ },
+ {
+  "id": "req_0554",
+  "timestamp": "2026-10-10T21:57:49.305Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 88,
+  "output_tokens": 719,
+  "latency_ms": 1152,
+  "cost_usd": 0.000445
+ },
+ {
+  "id": "req_0555",
+  "timestamp": "2026-10-10T22:01:12.938Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 621,
+  "output_tokens": 1025,
+  "latency_ms": 1587,
+  "cost_usd": 0.004597
+ },
+ {
+  "id": "req_0556",
+  "timestamp": "2026-10-10T22:35:34.031Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 813,
+  "output_tokens": 141,
+  "latency_ms": 612,
+  "cost_usd": 0.000596
+ },
+ {
+  "id": "req_0557",
+  "timestamp": "2026-10-10T22:39:25.477Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 761,
+  "output_tokens": 225,
+  "latency_ms": 1209,
+  "cost_usd": 0.001509
+ },
+ {
+  "id": "req_0558",
+  "timestamp": "2026-10-10T23:42:59.054Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 270,
+  "output_tokens": 131,
+  "latency_ms": 628,
+  "cost_usd": 0.00074
+ },
+ {
+  "id": "req_0559",
+  "timestamp": "2026-10-11T00:50:23.775Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 401,
+  "output_tokens": 251,
+  "latency_ms": 1002,
+  "cost_usd": 0.001325
+ },
+ {
+  "id": "req_0560",
+  "timestamp": "2026-10-11T01:27:25.051Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 268,
+  "output_tokens": 336,
+  "latency_ms": 1132,
+  "cost_usd": 0.000242
+ },
+ {
+  "id": "req_0561",
+  "timestamp": "2026-10-11T01:31:55.485Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 1169,
+  "output_tokens": 221,
+  "latency_ms": 972,
+  "cost_usd": 0.005132
+ },
+ {
+  "id": "req_0562",
+  "timestamp": "2026-10-11T01:47:53.831Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 121,
+  "output_tokens": 683,
+  "latency_ms": 1240,
+  "cost_usd": 0.000428
+ },
+ {
+  "id": "req_0563",
+  "timestamp": "2026-10-11T04:49:05.045Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1728,
+  "output_tokens": 30,
+  "latency_ms": 898,
+  "cost_usd": 0.005634
+ },
+ {
+  "id": "req_0564",
+  "timestamp": "2026-10-11T04:53:28.809Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 780,
+  "output_tokens": 263,
+  "latency_ms": 1123,
+  "cost_usd": 0.006285
+ },
+ {
+  "id": "req_0565",
+  "timestamp": "2026-10-11T05:46:14.794Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 2934,
+  "output_tokens": 310,
+  "latency_ms": 905,
+  "cost_usd": 0.00292
+ },
+ {
+  "id": "req_0566",
+  "timestamp": "2026-10-11T05:57:48.525Z",
+  "model": "claude-haiku",
+  "status": 429,
+  "input_tokens": 744,
+  "output_tokens": 0,
+  "latency_ms": 66,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0567",
+  "timestamp": "2026-10-11T06:06:54.127Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 242,
+  "output_tokens": 1251,
+  "latency_ms": 1986,
+  "cost_usd": 0.000787
+ },
+ {
+  "id": "req_0568",
+  "timestamp": "2026-10-11T06:51:02.435Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 358,
+  "output_tokens": 1523,
+  "latency_ms": 2835,
+  "cost_usd": 0.023919
+ },
+ {
+  "id": "req_0569",
+  "timestamp": "2026-10-11T08:02:10.649Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 779,
+  "output_tokens": 392,
+  "latency_ms": 1304,
+  "cost_usd": 0.001054
+ },
+ {
+  "id": "req_0570",
+  "timestamp": "2026-10-11T09:00:19.807Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 95,
+  "output_tokens": 117,
+  "latency_ms": 744,
+  "cost_usd": 0.000544
+ },
+ {
+  "id": "req_0571",
+  "timestamp": "2026-10-11T09:15:50.993Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 314,
+  "output_tokens": 120,
+  "latency_ms": 622,
+  "cost_usd": 0.000731
+ },
+ {
+  "id": "req_0572",
+  "timestamp": "2026-10-11T10:05:09.341Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 1117,
+  "output_tokens": 305,
+  "latency_ms": 927,
+  "cost_usd": 0.00128
+ },
+ {
+  "id": "req_0573",
+  "timestamp": "2026-10-11T10:32:47.440Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 376,
+  "output_tokens": 1598,
+  "latency_ms": 2246,
+  "cost_usd": 0.004108
+ },
+ {
+  "id": "req_0574",
+  "timestamp": "2026-10-11T11:16:13.234Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 684,
+  "output_tokens": 383,
+  "latency_ms": 1070,
+  "cost_usd": 0.007797
+ },
+ {
+  "id": "req_0575",
+  "timestamp": "2026-10-11T12:51:15.973Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 305,
+  "output_tokens": 115,
+  "latency_ms": 686,
+  "cost_usd": 0.000704
+ },
+ {
+  "id": "req_0576",
+  "timestamp": "2026-10-11T13:05:16.391Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 531,
+  "output_tokens": 551,
+  "latency_ms": 974,
+  "cost_usd": 0.002629
+ },
+ {
+  "id": "req_0577",
+  "timestamp": "2026-10-11T13:06:07.042Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 186,
+  "output_tokens": 401,
+  "latency_ms": 731,
+  "cost_usd": 0.000269
+ },
+ {
+  "id": "req_0578",
+  "timestamp": "2026-10-11T13:51:55.425Z",
+  "model": "claude-haiku",
+  "status": 500,
+  "input_tokens": 362,
+  "output_tokens": 0,
+  "latency_ms": 1056,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0579",
+  "timestamp": "2026-10-11T14:48:36.331Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 712,
+  "output_tokens": 190,
+  "latency_ms": 797,
+  "cost_usd": 0.000812
+ },
+ {
+  "id": "req_0580",
+  "timestamp": "2026-10-11T15:13:20.439Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 952,
+  "output_tokens": 494,
+  "latency_ms": 1080,
+  "cost_usd": 0.000439
+ },
+ {
+  "id": "req_0581",
+  "timestamp": "2026-10-11T15:40:09.136Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 394,
+  "output_tokens": 245,
+  "latency_ms": 732,
+  "cost_usd": 0.000206
+ },
+ {
+  "id": "req_0582",
+  "timestamp": "2026-10-11T15:55:09.771Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 709,
+  "output_tokens": 241,
+  "latency_ms": 1666,
+  "cost_usd": 0.004182
+ },
+ {
+  "id": "req_0583",
+  "timestamp": "2026-10-11T17:29:38.941Z",
+  "model": "gemini-flash",
+  "status": 200,
+  "input_tokens": 284,
+  "output_tokens": 194,
+  "latency_ms": 603,
+  "cost_usd": 0.00057
+ },
+ {
+  "id": "req_0584",
+  "timestamp": "2026-10-11T17:56:53.088Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 66,
+  "output_tokens": 1156,
+  "latency_ms": 1806,
+  "cost_usd": 0.004677
+ },
+ {
+  "id": "req_0585",
+  "timestamp": "2026-10-11T18:09:54.990Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1145,
+  "output_tokens": 473,
+  "latency_ms": 1499,
+  "cost_usd": 0.000456
+ },
+ {
+  "id": "req_0586",
+  "timestamp": "2026-10-11T18:18:47.823Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 1055,
+  "output_tokens": 131,
+  "latency_ms": 862,
+  "cost_usd": 0.001368
+ },
+ {
+  "id": "req_0587",
+  "timestamp": "2026-10-11T19:08:04.759Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 316,
+  "output_tokens": 741,
+  "latency_ms": 1487,
+  "cost_usd": 0.0082
+ },
+ {
+  "id": "req_0588",
+  "timestamp": "2026-10-11T19:27:03.789Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 389,
+  "output_tokens": 191,
+  "latency_ms": 521,
+  "cost_usd": 0.001075
+ },
+ {
+  "id": "req_0589",
+  "timestamp": "2026-10-11T19:34:37.770Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 133,
+  "output_tokens": 30,
+  "latency_ms": 346,
+  "cost_usd": 0.000038
+ },
+ {
+  "id": "req_0590",
+  "timestamp": "2026-10-11T19:34:59.340Z",
+  "model": "llama-3-70b",
+  "status": 429,
+  "input_tokens": 139,
+  "output_tokens": 0,
+  "latency_ms": 46,
+  "cost_usd": 0
+ },
+ {
+  "id": "req_0591",
+  "timestamp": "2026-10-11T19:42:55.668Z",
+  "model": "llama-3-70b",
+  "status": 200,
+  "input_tokens": 335,
+  "output_tokens": 537,
+  "latency_ms": 1210,
+  "cost_usd": 0.000785
+ },
+ {
+  "id": "req_0592",
+  "timestamp": "2026-10-11T20:07:05.321Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1261,
+  "output_tokens": 866,
+  "latency_ms": 1617,
+  "cost_usd": 0.000709
+ },
+ {
+  "id": "req_0593",
+  "timestamp": "2026-10-11T20:31:48.762Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 1026,
+  "output_tokens": 104,
+  "latency_ms": 690,
+  "cost_usd": 0.000216
+ },
+ {
+  "id": "req_0594",
+  "timestamp": "2026-10-11T20:36:44.092Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 180,
+  "output_tokens": 1134,
+  "latency_ms": 1625,
+  "cost_usd": 0.000707
+ },
+ {
+  "id": "req_0595",
+  "timestamp": "2026-10-11T20:44:26.558Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 1125,
+  "output_tokens": 352,
+  "latency_ms": 850,
+  "cost_usd": 0.008655
+ },
+ {
+  "id": "req_0596",
+  "timestamp": "2026-10-11T20:50:55.461Z",
+  "model": "claude-haiku",
+  "status": 200,
+  "input_tokens": 261,
+  "output_tokens": 408,
+  "latency_ms": 962,
+  "cost_usd": 0.001841
+ },
+ {
+  "id": "req_0597",
+  "timestamp": "2026-10-11T21:18:07.626Z",
+  "model": "gpt-4o",
+  "status": 200,
+  "input_tokens": 374,
+  "output_tokens": 64,
+  "latency_ms": 773,
+  "cost_usd": 0.001575
+ },
+ {
+  "id": "req_0598",
+  "timestamp": "2026-10-11T21:57:05.365Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 270,
+  "output_tokens": 279,
+  "latency_ms": 919,
+  "cost_usd": 0.000208
+ },
+ {
+  "id": "req_0599",
+  "timestamp": "2026-10-11T22:58:39.963Z",
+  "model": "claude-sonnet",
+  "status": 200,
+  "input_tokens": 339,
+  "output_tokens": 81,
+  "latency_ms": 1127,
+  "cost_usd": 0.002232
+ },
+ {
+  "id": "req_0600",
+  "timestamp": "2026-10-11T23:04:49.140Z",
+  "model": "gpt-4o-mini",
+  "status": 200,
+  "input_tokens": 3344,
+  "output_tokens": 425,
+  "latency_ms": 1097,
+  "cost_usd": 0.000757
+ }
+]
